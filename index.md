@@ -6,7 +6,7 @@ title: Home
 <header>
     <div class="container header-content">
         <img src="https://github.com/smabdullah/smabdullah.github.io/assets/15555159/2186a818-208a-4671-aa56-a4a02ca250b7" alt="S M Abdullah, PhD" class="portrait">
-        # Hello, I'm <span class="highlight">S M Abdullah, PhD</span>
+        # Hello, I'm S M Abdullah, PhD</span>
         STEAM Educator | AI Specialist
         
         I excel at designing and delivering innovative STEAM programs and have extensive experience in image processing, computer vision, and embedded systems.
@@ -18,11 +18,11 @@ title: Home
 <section class="stats">
     <div class="container">
         <div class="stat">
-            ## 12
-            Years of Experience
+            ## 3+
+            Years of Teaching Experience
         </div>
         <div class="stat">
-            ## 26
+            ## 20+
             Projects Completed
         </div>
         <div class="stat">
@@ -30,8 +30,8 @@ title: Home
             Technologies Mastered
         </div>
         <div class="stat">
-            ## 500
-            Publications
+            ## 8
+            Research Publications
         </div>
     </div>
 </section>
