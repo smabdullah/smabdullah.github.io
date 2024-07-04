@@ -6,38 +6,38 @@ title: Home
 <header>
     <div class="container header-content">
         <img src="https://github.com/smabdullah/smabdullah.github.io/assets/15555159/2186a818-208a-4671-aa56-a4a02ca250b7" alt="S M Abdullah, PhD" class="portrait">
-        # Hello, I'm S M Abdullah, PhD
-        STEAM Educator | AI Specialist
+        <h1>Hello, I'm S M Abdullah, PhD</h1>
+        <p>STEAM Educator | AI Specialist</p>
         
-        I excel at designing and delivering innovative STEAM programs and have extensive experience in image processing, computer vision, and embedded systems.
+        <p>I excel at designing and delivering innovative STEAM programs and have extensive experience in image processing, computer vision, and embedded systems.</p>
         
-        [Download CV](/Resume_latest.pdf){: .btn }
+        <a href="/Resume_latest.pdf" class="btn">Download Resume</a>
     </div>
 </header>
 
 <section class="stats">
     <div class="container">
         <div class="stat">
-            ## 3+
-            Years of Teaching Experience
+            <h2>3+</h2>
+            <p>Years of Teaching Experience</p>
         </div>
         <div class="stat">
-            ## 20+
-            Projects Completed
+            <h2>20+</h2>
+            <p>Projects Completed</p>
         </div>
         <div class="stat">
-            ## 8
-            Technologies Mastered
+            <h2>8<h2>
+            <p>Technologies Mastered</p>
         </div>
         <div class="stat">
-            ## 8
-            Research Publications
+            <h2>8</h2>
+            <p>Research Publications</p>
         </div>
     </div>
 </section>
 
 <footer>
     <div class="container">
-        &copy; 2024 S M Abdullah. All rights reserved.
+        <p>&copy; 2024 S M Abdullah. All rights reserved.</p>
     </div>
 </footer>
