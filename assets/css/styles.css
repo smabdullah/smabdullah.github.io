@@ -147,6 +147,7 @@ footer {
         display: block;
         color: white;
         float: right;
+        padding-right: 10px;
     }
     
     .nav-links {
