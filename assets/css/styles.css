@@ -44,12 +44,25 @@ body {
 }
 
 .nav-links {
+    display: none;
+    flex-direction: column;
+    width: 100%;
+    text-align: center;
+    padding: 0;
+    margin: 0;
     list-style: none;
-    display: flex;
 }
 
 .nav-links li {
-    display: inline;
+    display: block;
+    margin: 10px 0;
+}
+
+.nav-links a {
+    display: block;
+    padding: 10px 20px;
+    color: #fff;
+    text-decoration: none;
 }
 
 .navbar-toggle {
@@ -154,6 +167,7 @@ footer {
         display: none;
         flex-direction: column;
         text-align: center;
+        width: 100%;
     }
     
     .nav-links li {
