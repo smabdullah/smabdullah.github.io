@@ -7,9 +7,9 @@ permalink: /contact/
 <div class="contact-container">
     <h2>Contact</h2>
     <p>You can reach me through the following platforms:</p>
-    <div>
+    <div class="contact-icon">
         <a href="http://au.linkedin.com/in/smabdullah" target="_blank" rel="noopener noreferrer">
-            <i class="fa fa-brands fa-linkedin"></i>
+            <i class="fa fa-linkedin"></i>
         </a>
     </div>
     <div>

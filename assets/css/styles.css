@@ -239,6 +239,12 @@ footer {
     text-decoration: underline;
 }
 
+.contact-icon {
+    color: #154734;
+    padding: 20px;
+    size: 2rem;
+}
+
 /* Media Queries for Responsive Design */
 
 @media (max-width: 768px) {
