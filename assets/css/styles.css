@@ -43,6 +43,21 @@ body {
   float: right;
 }
 
+.nav-links {
+    list-style: none;
+    display: flex;
+}
+
+.nav-links li {
+    display: inline;
+}
+
+.navbar-toggle {
+    display: none;
+    font-size: 2em;
+    cursor: pointer;
+}
+
 header {
     background: #fff;
     color: #333;
@@ -124,6 +139,30 @@ footer {
 /* Media Queries for Responsive Design */
 
 @media (max-width: 768px) {
+    .topnav {
+        flex-direction: column;
+    }
+    
+    .navbar-toggle {
+        display: block;
+    }
+    
+    .nav-links {
+        display: none;
+        flex-direction: column;
+        width: 100%;
+        text-align: center;
+    }
+    
+    .nav-links li {
+        display: block;
+        margin: 10px 0;
+    }
+    
+    .nav-links.active {
+        display: flex;
+    }
+    
     .header-content {
         padding: 20px;
     }
