@@ -244,6 +244,7 @@ footer {
     margin-bottom: 50px;
     align-items: center;
     width: 25%;
+    padding-right: 20px;
 }
 
 /* Media Queries for Responsive Design */
