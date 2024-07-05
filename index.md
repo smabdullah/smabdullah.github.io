@@ -32,7 +32,7 @@ title: Home
       <p>Technology Projects</p>
     </div>
     <div class="stat">
-      <h2>8</h2>
+      <h2>7</h2>
       <p>Research Publications</p>
     </div>
   </div>
