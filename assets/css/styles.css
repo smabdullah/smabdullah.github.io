@@ -241,9 +241,8 @@ footer {
 
 .contact-icon {
     color: #154734;
-    padding: 10px;
     margin-bottom: 50px;
-    float: left;
+    align-items: center;
     width: 25%;
 }
 

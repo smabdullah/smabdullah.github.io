@@ -27,6 +27,7 @@ permalink: /contact/
             <i class="fa fa-github-square fa-4x" aria-hidden="true"></i>
         </a>
     </span>
+    <hr>
     <div>
         <span>
             <p>Creator, contributor and maintainer of Casey Tech School's GitHub account:
