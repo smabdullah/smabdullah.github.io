@@ -31,7 +31,7 @@ permalink: /contact/
     <div>
         <span>
             <p>Creator, contributor and maintainer of Casey Tech School's GitHub account:
-                <a href="https://github.com/abdullah-cts" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/caseytechschool-cts" target="_blank" rel="noopener noreferrer">
                     <i class="fa fa-github fa-2x" aria-hidden="true"></i>
                 </a></p>
         </span>
