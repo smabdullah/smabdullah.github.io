@@ -20,6 +20,7 @@ body {
 .topnav {
     background-color: #154734;
     overflow: hidden;
+    padding: 20px;
 }
 
 /* Style the links inside the navigation bar */
