@@ -145,12 +145,13 @@ footer {
     
     .navbar-toggle {
         display: block;
+        color: white;
+        float: right;
     }
     
     .nav-links {
         display: none;
         flex-direction: column;
-        width: 100%;
         text-align: center;
     }
     
@@ -162,7 +163,7 @@ footer {
     .nav-links.active {
         display: flex;
     }
-    
+
     .header-content {
         padding: 20px;
     }
