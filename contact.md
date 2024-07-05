@@ -28,12 +28,12 @@ permalink: /contact/
         </a>
     </span>
     <div>
-        <a href="https://github.com/abdullah-cts" target="_blank" rel="noopener noreferrer">
-            <span>
-                <p>Creator, contributor and maintainer of Casey Tech School's GitHub account:</p>
-                <i class="fa fa-github fa-2x" aria-hidden="true"></i>
-            </span>
-        </a>
+        <span>
+            <p>Creator, contributor and maintainer of Casey Tech School's GitBook account:
+                <a href="https://github.com/abdullah-cts" target="_blank" rel="noopener noreferrer">
+                    <i class="fa fa-github fa-2x" aria-hidden="true"></i>
+                </a></p>
+        </span>
     </div>
     <div>
         <span>
