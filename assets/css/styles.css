@@ -241,8 +241,10 @@ footer {
 
 .contact-icon {
     color: #154734;
-    padding: 50px;
+    padding: 10px;
     margin-bottom: 50px;
+    float: left;
+    width: 25%;
 }
 
 /* Media Queries for Responsive Design */
@@ -286,11 +288,19 @@ footer {
     .stat:last-child {
         margin-right: 0;
     }
+
+    .contact-icon {
+        width: 50%;
+    }
 }
 
 @media (max-width: 480px) {
     .stat {
         width: 100%;
         margin-right: 0;
+    }
+
+    .contact-icon {
+        width: 100%;
     }
 }
