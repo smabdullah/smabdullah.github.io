@@ -9,7 +9,7 @@ permalink: /contact/
     <p>You can reach me through the following platforms:</p>
     <div>
         <a href="http://au.linkedin.com/in/smabdullah" target="_blank" rel="noopener noreferrer">
-            <i class="fa-brands fa-linkedin" style="color: #154734;"></i>
+            <i class="fa-brands fa-linkedin"></i>
         </a>
     </div>
     <div>
