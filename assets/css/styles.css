@@ -118,6 +118,12 @@ header .btn {
     color:  #154734;
 }
 
+.stat p {
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: center;
+}
+
 footer {
     padding: 20px 0;
     text-align: center;
