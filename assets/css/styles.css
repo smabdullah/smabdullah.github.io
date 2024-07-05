@@ -61,17 +61,9 @@ header {
     border-bottom:  #154734 3px solid;
 }
 
-.header-content {
-    padding: 30px 0;
-}
-
 header h1 {
     font-size: 2.5em;
     margin-bottom: 10px;
-    color:  #154734;
-}
-
-header .highlight {
     color:  #154734;
 }
 
