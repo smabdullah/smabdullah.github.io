@@ -9,7 +9,7 @@ title: Home
         <h1>Hello, I'm S M Abdullah, PhD</h1>
         <p>STEAM Educator | AI Specialist</p>
         <p>I excel at designing and delivering innovative STEAM programs and have extensive experience in image processing, computer vision, and embedded systems.</p>
-        <a href="/Resume_latest.pdf" class="btn">Download Resume</a>
+        <a href="/Resume_latest.pdf" target="_blank" rel="noopener noreferrer" class="btn">Download Resume</a>
     </div>
 </header>
 
