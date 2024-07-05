@@ -24,12 +24,12 @@ permalink: /publications/
     <div class="publication">
         <h3>LiDAR segmentation using suitable seed points for 3D building extraction</h3>
         <p>SM Abdullah, M Awrangjeb, G Lu<br>ISPRS Technical Commission III Symposium, 2014</p>
-        <p class="article"></p>
+        <p class="article">This paper presents a new method for automatically detecting buildings and extracting roof planes from LiDAR (Light Detection and Ranging) point cloud data. The method first separates ground and non-ground points, then analyzes the coplanarity of non-ground points to identify potential roof surfaces. It uses an innovative approach to select seed points for growing planar segments, starting from the highest points and working downwards. A rule-based system is then applied to remove segments likely to be on trees rather than buildings. The method was tested on six different datasets with varying terrain and vegetation density. Results show high accuracy in both building detection and roof plane extraction, even in areas with dense vegetation. The approach outperforms a previous method in most metrics, particularly in the accuracy of building boundaries. This technique could be valuable for applications like urban planning, 3D city modeling, and disaster management.</p>
     </div>
     <div class="publication">
         <h3>Hierarchical mutual nearest neighbour image segmentation</h3>
         <p>SM Abdullah, P Tischer, S Wijewickrema, A Paplinski<br>2016 International Conference on Digital Image Computing: Techniques and Applications (DICTA), 2016</p>
-        <p class="article"></p>
+        <p class="article">This paper presents a novel approach to image segmentation called the Hierarchical Mutual Nearest Neighbour (HMNN) method. Unlike many existing algorithms that rely on thresholds or parameter settings, this method is parameter-free and generates a hierarchy of segmentations at different levels of detail. It works by first creating natural segments based on the principle of mutual nearest neighbors, then merging these segments hierarchically. The algorithm uses only one meta-parameter (k) to control the level of inclusion. The method was evaluated using the Berkeley BSD500 dataset and compared favorably with existing hierarchical segmentation algorithms, outperforming them in several metrics. The HMNN method is versatile, easily applicable to different types of images, and can be extended to handle higher-dimensional images. Its simplicity and effectiveness make it a promising approach for various computer vision applications.</p>
     </div>
     <div class="publication">
         <h3>Correlation mining in graph databases with a new measure</h3>
