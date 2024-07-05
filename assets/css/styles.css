@@ -36,7 +36,6 @@ body {
 /* Change the color of links on hover */
 .topnav a:hover {
   background-color: #446C5D;
-  border-radius: 25px;
 }
 
 .topnav a.icon {
