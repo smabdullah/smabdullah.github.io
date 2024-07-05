@@ -34,12 +34,12 @@ permalink: /publications/
     <div class="publication">
         <h3>Correlation mining in graph databases with a new measure</h3>
         <p>M Samiullah, CF Ahmed, MA Nishi, A Fariha, SM Abdullah, MR Islam<br>Web Technologies and Applications: 15th Asia-Pacific Web Conference, 2013</p>
-        <p class="article"></p>
+        <p class="article">This paper introduces a new approach to correlation mining in graph databases, addressing the challenge of identifying meaningful relationships between graph structures. The authors propose a novel measure called gConfidence and an algorithm named CGM (Correlated Graph Mining) to efficiently extract correlated graph patterns. Unlike existing methods that focus on structural similarity, this approach can identify correlations between graphs that appear together frequently, even if they are structurally dissimilar. The gConfidence measure has useful properties such as downward closure, which allows for efficient pruning of the search space. The CGM algorithm constructs a hierarchical search space called a gConfidence tree to mine correlations effectively. Experimental results on both synthetic and real-world datasets demonstrate that CGM outperforms existing algorithms in terms of processing speed and ability to filter out less significant graphs. This method has potential applications in various domains, including bioinformatics, computer vision, and chemical analysis.</p>
     </div>
     <div class="publication">
         <h3>Parameter-free hierarchical image segmentation</h3>
         <p>SM Abdullah, P Tischer, S Wijewickrema, A Paplinski<br>2017 IEEE Visual Communications and Image Processing (VCIP), 2017</p>
-        <p class="article"></p>
+        <p class="article">This paper presents a novel, parameter-free hierarchical image segmentation algorithm that uses minimum spanning trees. The method converts an image into a tree structure and generates multiple levels of segmentation in a single pass, without the need for iterative processing. It considers both segment levels and distances when merging, resulting in more homogeneous segments. The algorithm is versatile, as it can work with any distance function and can be adapted for clustering. A key feature is its segment visualizer, which allows users to select the most appropriate level of segmentation for their needs. When tested on popular segmentation datasets, the method showed competitive performance compared to existing algorithms, while offering the advantages of being parameter-free and non-iterative. This approach provides a quick and flexible way to explore the natural connectivity of image pixels at different levels of detail.</p>
     </div>
 </div>
 <footer>
