@@ -20,7 +20,7 @@ title: Home
 <section class="stats">
   <div class="container">
     <div class="stat">
-      <h2>10</h2>
+      <h2>8+</h2>
       <p>Years of Tertiary Teaching Experience</p>
     </div>
     <div class="stat">
