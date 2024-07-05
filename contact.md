@@ -36,12 +36,12 @@ permalink: /contact/
         </a>
     </div>
     <div>
-        <a href="https://caseytechschool.gitbook.io/welcome" target="_blank" rel="noopener noreferrer">
-            <span>
-                <p>Creator, contributor and maintainer of Casey Tech School's GitBook account:</p>
-                <i class="fa fa-book fa-2x" aria-hidden="true"></i>
-            </span>
-        </a>
+        <span>
+            <p>Creator, contributor and maintainer of Casey Tech School's GitBook account:
+                <a href="https://caseytechschool.gitbook.io/welcome" target="_blank" rel="noopener noreferrer">
+                    <i class="fa fa-book fa-2x" aria-hidden="true"></i>
+                </a></p>
+        </span>
     </div>
 </div>
 <footer>
