@@ -22,16 +22,26 @@ permalink: /contact/
             <i class="fa fa-envelope fa-4x" aria-hidden="true"></i>
         </a>
     </span>
+    <span>
+        <a href="https://github.com/smabdullah" target="_blank" rel="noopener noreferrer">
+            <i class="fa fa-github-square fa-4x" aria-hidden="true"></i>
+        </a>
+    </span>
     <div>
         <a href="https://github.com/abdullah-cts" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/badge/GitHub-abdullah--cts-black" alt="GitHub">
+            <span>
+                <p>Creator, contributor and maintainer of Casey Tech School's GitHub account:</p>
+                <i class="fa fa-github fa-2x" aria-hidden="true"></i>
+            </span>
         </a>
     </div>
     <div>
-        Another GitHub: <a href="https://github.com/smabdullah" target="_blank" rel="noopener noreferrer">https://github.com/smabdullah</a>
-    </div>
-    <div>
-        Creator and maintainer of this website and contents: <a href="https://caseytechschool.gitbook.io/welcome" target="_blank" rel="noopener noreferrer">Casey Tech School GitBook</a>
+        <a href="https://caseytechschool.gitbook.io/welcome" target="_blank" rel="noopener noreferrer">
+            <span>
+                <p>Creator, contributor and maintainer of Casey Tech School's GitBook account:</p>
+                <i class="fa fa-book fa-2x" aria-hidden="true"></i>
+            </span>
+        </a>
     </div>
 </div>
 <footer>
