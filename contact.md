@@ -22,7 +22,7 @@ permalink: /contact/
             <i class="fa fa-envelope fa-4x" aria-hidden="true"></i>
         </a>
     </span>
-    <span>
+    <span class="contact-icon">
         <a href="https://github.com/smabdullah" target="_blank" rel="noopener noreferrer">
             <i class="fa fa-github-square fa-4x" aria-hidden="true"></i>
         </a>
