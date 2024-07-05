@@ -43,15 +43,15 @@ permalink: /about/
     <h3>Monash University, Australia</h3>
     <p><strong>Doctor of Philosophy (PhD), Information Technology</strong><br>
     March 2015 - June 2019<br>
-    <em>Thesis Title:</em> <a href="https://monash.figshare.com/articles/Novel_Parameter-less_Hierarchical_Algorithms_for_Image_Segmentation_and_Data_Clustering/8233709">Novel Parameter-less Hierarchical Algorithms for Image Segmentation and Data Clustering</a></p>
+    <em>Thesis Title:</em> <a href="https://monash.figshare.com/articles/Novel_Parameter-less_Hierarchical_Algorithms_for_Image_Segmentation_and_Data_Clustering/8233709" target="_blank" rel="noopener noreferrer">Novel Parameter-less Hierarchical Algorithms for Image Segmentation and Data Clustering</a></p>
     <p><strong>Master of Philosophy (MPhil), Information Technology</strong><br>
     April 2013 - October 2014<br>
-    <em>Thesis Title:</em> <a href="https://figshare.com/articles/Height_adaptive_LiDAR_segmentation_for_building_extraction_and_roof_reconstruction/4683592">Height Adaptive LiDAR Segmentation for Building Extraction and Roof Reconstruction</a><br>
+    <em>Thesis Title:</em> <a href="https://figshare.com/articles/Height_adaptive_LiDAR_segmentation_for_building_extraction_and_roof_reconstruction/4683592" target="_blank" rel="noopener noreferrer">Height Adaptive LiDAR Segmentation for Building Extraction and Roof Reconstruction</a><br>
     <em>Award:</em> Vice-Chancellor’s Commendation for Thesis Excellence 2014</p>
     <h3>University of Dhaka, Bangladesh</h3>
     <p><strong>Bachelor of Science (BS), Computer Science & Engineering</strong><br>
     April 2006 - December 2010<br>
-    <em>Thesis Title:</em> <a href="https://www.dropbox.com/scl/fi/8n6kcfhxjdbatqctkwlvw/BSc-Thesis.pdf?rlkey=nnigpo9eyoehq0f9ip1iyfcsi&st=b615mxzn&dl=0">Congestion Control in Wireless Body Sensor Networks</a></p>
+    <em>Thesis Title:</em> <a href="https://www.dropbox.com/scl/fi/8n6kcfhxjdbatqctkwlvw/BSc-Thesis.pdf?rlkey=nnigpo9eyoehq0f9ip1iyfcsi&st=b615mxzn&dl=0" target="_blank" rel="noopener noreferrer">Congestion Control in Wireless Body Sensor Networks</a></p>
     <hr>
     <h2>Certifications</h2>
     <ul>
@@ -78,4 +78,9 @@ permalink: /about/
         <li>4th position in NSU Computer Programming Contest 2007, Team “DU BRAVE HEARTS”</li>
     </ul>
 </div>
+<footer>
+    <div class="container">
+        <p>&copy; 2024 S M Abdullah. All rights reserved.</p>
+    </div>
+</footer>
 
