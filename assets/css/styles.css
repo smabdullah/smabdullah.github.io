@@ -24,6 +24,7 @@ body {
 
 /* Style the links inside the navigation bar */
 .topnav a {
+  display: block;  
   color: #fff;
   text-align: center;
   padding: 14px 16px;
@@ -39,24 +40,6 @@ body {
 /* Right-aligned section inside the top navigation */
 .topnav-right {
   float: right;
-}
-
-.nav-links {
-    display: inline;
-    text-align: center;
-    padding: 0;
-    margin: 0;
-    list-style: none;
-}
-
-.nav-links li {
-    margin: 10px 0;
-}
-
-.nav-links a {
-    padding: 10px 20px;
-    color: #fff;
-    text-decoration: none;
 }
 
 .navbar-toggle {
