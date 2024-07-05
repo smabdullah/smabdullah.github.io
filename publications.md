@@ -9,6 +9,7 @@ permalink: /publications/
     <div class="publication">
         <h3>Mining frequent patterns from human interactions in meetings using directed acyclic graphs</h3>
         <p>A Fariha, CF Ahmed, CKS Leung, SM Abdullah, L Cao<br>Pacific-Asia Conference on Knowledge Discovery and Data Mining, 38-49, 2013</p>
+        <p class="article">This research paper introduces a new method for analyzing and understanding human interactions in meetings using directed acyclic graphs (DAGs). Unlike previous tree-based approaches, the DAG-based method captures both temporal and triggering relationships between interactions, providing a more comprehensive representation of meeting dynamics. The authors propose a weighted DAG model where each interaction is assigned a weight based on the rank or importance of the person initiating it. They also develop an algorithm called WDAGmeet to mine frequent interaction patterns from these weighted DAGs. The method distinguishes between interactions initiated by people of different ranks and captures patterns that might be missed by tree-based approaches. Experimental results show that the WDAGmeet algorithm effectively discovers meaningful interaction patterns from meeting data, potentially offering insights into meeting effectiveness and decision-making processes.</p>
     </div>
     <div class="publication">
         <h3>Queue management based congestion control in wireless body sensor network</h3>
@@ -43,3 +44,8 @@ permalink: /publications/
         <p>SM Abdullah<br>Monash University, 2019</p>
     </div>
 </div>
+<footer>
+    <div class="container">
+        <p>&copy; 2024 S M Abdullah. All rights reserved.</p>
+    </div>
+</footer>
