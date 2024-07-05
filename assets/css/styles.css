@@ -123,6 +123,51 @@ footer {
     margin-bottom: 20px;
 }
 
+.about-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+}
+
+.about-container h2, .about-container h3 {
+    color: #154734;
+}
+
+.about-container a {
+    color: #154734;
+    text-decoration: none;
+}
+
+.about-container a:hover {
+    text-decoration: underline;
+}
+
+.about-container ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.about-container li {
+    margin-bottom: 10px;
+}
+
+.about-container hr {
+    border: 1px solid #154734;
+    margin: 20px 0;
+}
+
+.about-container strong {
+    color: #154734;
+}
+
+.about-container em {
+    font-style: italic;
+}
+
+
 /* Media Queries for Responsive Design */
 
 @media (max-width: 768px) {
