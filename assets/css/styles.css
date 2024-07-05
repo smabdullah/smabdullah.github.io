@@ -132,6 +132,11 @@ footer {
     color: #333;
 }
 
+.about-hero {
+    padding: 50px;
+    text-align: center;
+}
+
 .about-container h2, .about-container h3 {
     color: #154734;
 }
