@@ -35,7 +35,28 @@ body {
 /* Change the color of links on hover */
 .topnav a:hover {
   background-color: #446C5D;
+  border-radius: 25px;
 }
+
+.nav-links {
+    list-style: none;
+}
+
+.nav-links li {
+    display: inline;
+}
+
+.nav-links a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+
+.nav-links a:hover {
+    background: #446C5D;
+    border-radius: 25px;
+}
+
 
 /* Right-aligned section inside the top navigation */
 .topnav-right {
