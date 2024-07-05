@@ -39,7 +39,7 @@ body {
   border-radius: 25px;
 }
 
-.topnav .icon {
+.topnav a.icon {
     display: none;
 }
 
