@@ -55,7 +55,7 @@ body {
 
 .nav-links a:hover {
     background: #446C5D;
-    border-radius: 20px;
+    border-radius: 25px;
 }
 
 .navbar-right {
@@ -96,7 +96,7 @@ header .btn {
     background:  #154734;
     padding: 10px 20px;
     text-decoration: none;
-    border-radius: 5px;
+    border-radius: 10px;
 }
 
 .stats {
