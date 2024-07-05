@@ -14,34 +14,32 @@ permalink: /publications/
     <div class="publication">
         <h3>Queue management based congestion control in wireless body sensor network</h3>
         <p>M Samiullah, SM Abdullah, AFMIH Bappi, S Anwar<br>2012 International Conference on Informatics, Electronics & Vision (ICIEV), 2012</p>
+        <p class="article">This paper proposes a new congestion control protocol for Wireless Body Sensor Networks (WBSNs) used in healthcare monitoring. The protocol aims to improve reliability and energy efficiency by managing queue occupancy in sensor nodes. It introduces a Queue Status (QS) bit to indicate congestion levels and uses a backpressure mechanism to adjust packet sending rates. The protocol detects congestion by monitoring queue lengths at nodes and their successors. When congestion is detected, it sends backpressure messages to slow down upstream nodes. Simulation results show the protocol can reduce packet drop rates, improve delivery ratios, and decrease energy consumption as buffer sizes increase. The authors claim their approach provides an effective way to control congestion in WBSNs while considering the limited computational and power resources of sensor nodes.</p>
     </div>
     <div class="publication">
         <h3>Automatic segmentation of LiDAR point cloud data at different height levels for 3D building extraction</h3>
         <p>SM Abdullah, M Awrangjeb, G Lu<br>2014 IEEE international conference on multimedia and expo workshops (ICMEW), 1-6, 2014</p>
+        <p class="article">This paper presents a new method for automatically extracting building roofs from LiDAR (Light Detection and Ranging) data. The technique first separates ground and non-ground points, then analyzes the non-ground points at different height levels to identify coplanar points that could form roof segments. It uses a region-growing approach to expand these segments into full roof planes. The method then applies rules to remove false positives, such as planes detected on trees or other non-building structures. Finally, it combines the remaining roof planes to determine building outlines. The approach was tested on benchmark datasets from Vaihingen, Germany, and showed high accuracy in both building detection and roof plane extraction, outperforming a previous method in several metrics. This technique is significant because it uses only LiDAR data, avoiding the complexities of integrating image data, while still achieving robust results in identifying buildings and their roof structures.</p>
     </div>
     <div class="publication">
         <h3>LiDAR segmentation using suitable seed points for 3D building extraction</h3>
         <p>SM Abdullah, M Awrangjeb, G Lu<br>ISPRS Technical Commission III Symposium, 2014</p>
+        <p class="article"></p>
     </div>
     <div class="publication">
         <h3>Hierarchical mutual nearest neighbour image segmentation</h3>
         <p>SM Abdullah, P Tischer, S Wijewickrema, A Paplinski<br>2016 International Conference on Digital Image Computing: Techniques and Applications (DICTA), 2016</p>
+        <p class="article"></p>
     </div>
     <div class="publication">
         <h3>Correlation mining in graph databases with a new measure</h3>
         <p>M Samiullah, CF Ahmed, MA Nishi, A Fariha, SM Abdullah, MR Islam<br>Web Technologies and Applications: 15th Asia-Pacific Web Conference, 2013</p>
+        <p class="article"></p>
     </div>
     <div class="publication">
         <h3>Parameter-free hierarchical image segmentation</h3>
         <p>SM Abdullah, P Tischer, S Wijewickrema, A Paplinski<br>2017 IEEE Visual Communications and Image Processing (VCIP), 2017</p>
-    </div>
-    <div class="publication">
-        <h3>Height adaptive LiDAR segmentation for building extraction and roof reconstruction</h3>
-        <p>SM Abdullah<br>Monash University, 2014</p>
-    </div>
-    <div class="publication">
-        <h3>Novel Parameter-less Hierarchical Algorithms for Image Segmentation and Data Clustering</h3>
-        <p>SM Abdullah<br>Monash University, 2019</p>
+        <p class="article"></p>
     </div>
 </div>
 <footer>

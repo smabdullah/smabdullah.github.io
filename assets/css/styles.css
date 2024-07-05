@@ -205,6 +205,11 @@ footer {
     color: #555;
 }
 
+.publication p.article {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
 /* Media Queries for Responsive Design */
 
 @media (max-width: 768px) {
