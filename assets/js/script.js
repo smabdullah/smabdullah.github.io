@@ -1,8 +1,8 @@
-document.addEventListener("DOMContentLoaded", function() {
-    const navToggle = document.getElementById('js-navbar-toggle');
-    const menu = document.getElementById('js-menu');
-    
-    navToggle.addEventListener('click', function() {
-        menu.classList.toggle('active');
-    });
-});
+function myFunction() {
+    var x = document.getElementById("topnav");
+    if (x.className === "topnav") {
+      x.className += " responsive";
+    } else {
+      x.className = "topnav";
+    }
+  }
