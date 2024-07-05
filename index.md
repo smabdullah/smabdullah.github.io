@@ -4,10 +4,14 @@ title: Home
 ---
 
 <header>
-    <div class="container header-content">
-        <img src="/assets/images/Profile.png" alt="S M Abdullah, PhD" class="portrait">
-        <h1>Hello, I'm S M Abdullah, PhD</h1>
-        <p>STEAM Educator | AI Specialist</p>
+    <div class="header-content">
+        <div class="column">
+          <h1>Hello, I'm S M Abdullah, PhD</h1>
+          <p>STEAM Educator | AI Specialist</p>
+        </div>
+        <div class="column">
+          <img src="/assets/images/Profile.png" alt="S M Abdullah, PhD" class="portrait">
+        </div>
         <p>I excel at designing and delivering innovative STEAM programs and have extensive experience in image processing, computer vision, and embedded systems.</p>
         <a href="/Resume_latest.pdf" target="_blank" rel="noopener noreferrer" class="btn">Download Resume</a>
     </div>
