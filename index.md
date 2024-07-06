@@ -28,7 +28,7 @@ title: Home
       <p>Years of STEAM Teaching Experience</p>
     </div>
     <div class="stat">
-      <h2>20+</h2>
+      <h2>6+</h2>
       <p>Technology Projects</p>
     </div>
     <div class="stat">
