@@ -265,7 +265,7 @@ hr {
 }
 
 .project {
-    background-color: var(--primary-colour);
+    background-color: #f9f9f9;
     border: 1px solid #ccc;
     border-radius: 8px;
     margin: 10px;
@@ -346,6 +346,10 @@ hr {
     .contact-icon {
         width: 50%;
     }
+
+    .project {
+        width: 50%;
+    }
 }
 
 @media (max-width: 480px) {
@@ -355,6 +359,10 @@ hr {
     }
 
     .contact-icon {
+        width: 100%;
+    }
+
+    .project {
         width: 100%;
     }
 }
