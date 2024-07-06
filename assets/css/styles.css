@@ -1,3 +1,7 @@
+:root {
+    --primary-colour: #154734;
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -28,7 +32,7 @@ body {
 }
 
 .topnav {
-    background-color: #154734;
+    background-color: var(--primary-colour);
     overflow: hidden;
 }
 
@@ -58,13 +62,13 @@ header {
     padding-top: 30px;
     min-height: 70px;
     text-align: center;
-    border-bottom:  #154734 3px solid;
+    border-bottom: var(--primary-colour) 3px solid;
 }
 
 header h1 {
     font-size: 2.5em;
     margin-bottom: 10px;
-    color:  #154734;
+    color:  var(--primary-colour);
 }
 
 header p {
@@ -75,7 +79,7 @@ header p {
 header .btn {
     display: inline-block;
     color: #fff;
-    background:  #154734;
+    background:  var(--primary-colour);
     padding: 10px 20px;
     text-decoration: none;
     border-radius: 10px;
@@ -98,7 +102,7 @@ header .btn {
 
 .stat h2 {
     font-size: 2.5em;
-    color:  #154734;
+    color:  var(--primary-colour);
 }
 
 .stat p {
@@ -111,7 +115,7 @@ header .btn {
 footer {
     padding: 20px 0;
     text-align: center;
-    background:  #154734;
+    background:  var(--primary-colour);
     color: #fff;
 }
 
@@ -139,11 +143,11 @@ footer {
 }
 
 .about-container h2, .about-container h3 {
-    color: #154734;
+    color: var(--primary-colour);
 }
 
 .about-container a {
-    color: #154734;
+    color: var(--primary-colour);
     text-decoration: none;
 }
 
@@ -152,7 +156,7 @@ footer {
 }
 
 .about-container ul {
-    list-style-type: none;
+    list-style-type: circle;
     padding-left: 0;
 }
 
@@ -160,13 +164,17 @@ footer {
     margin-bottom: 10px;
 }
 
+.about-container li::marker {
+    color: var(--primary-colour);
+}
+
 hr {
-    border: 1px solid #154734;
+    border: 1px solid var(--primary-colour);
     margin: 20px 0;
 }
 
 .about-container strong {
-    color: #154734;
+    color: var(--primary-colour);
 }
 
 .about-container em {
@@ -183,7 +191,7 @@ hr {
 }
 
 .publications-container h2 {
-    color: #154734;
+    color: var(--primary-colour);
     text-align: center;
     margin-bottom: 20px;
 }
@@ -191,13 +199,13 @@ hr {
 .publication {
     margin-bottom: 20px;
     padding: 10px;
-    border: 1px solid #154734;
+    border: 1px solid var(--primary-colour);
     border-radius: 5px;
     background-color: #f9f9f9;
 }
 
 .publication h3 {
-    color: #154734;
+    color: var(--primary-colour);
     margin-bottom: 5px;
 }
 
@@ -221,7 +229,7 @@ hr {
 }
 
 .contact-container h2 {
-    color: #154734;
+    color: var(--primary-colour);
     text-align: center;
     margin-bottom: 20px;
 }
@@ -231,7 +239,7 @@ hr {
 }
 
 .contact-container a {
-    color: #154734;
+    color: var(--primary-colour);
     text-decoration: none;
 }
 
@@ -240,7 +248,7 @@ hr {
 }
 
 .contact-icon {
-    color: #154734;
+    color: var(--primary-colour);
     margin-bottom: 50px;
     align-items: center;
     width: 25%;
