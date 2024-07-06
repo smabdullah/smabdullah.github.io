@@ -219,6 +219,10 @@ hr {
     padding-bottom: 20px;
 }
 
+.publication strong {
+    color: var(--primary-colour);
+}
+
 .contact-container {
     max-width: 800px;
     margin: 0 auto;
@@ -298,6 +302,10 @@ hr {
 .project ul {
     list-style-type: disc;
     margin-left: 20px;
+}
+
+.project li::marker {
+    color: var(--primary-colour);
 }
 
 
