@@ -219,6 +219,10 @@ hr {
     padding-bottom: 20px;
 }
 
+.publication p.em {
+    color: var(--primary-colour);
+}
+
 .contact-container {
     max-width: 800px;
     margin: 0 auto;
