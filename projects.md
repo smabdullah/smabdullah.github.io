@@ -48,20 +48,20 @@ permalink: /projects/
         <h3>Technologies Used</h3>
         <ul>
             <li>Python: Core programming language for development.</li>
-            <li>Tkinter: For creating the graphical user interface.</li>
+            <li>PySimpleGUI: For creating the graphical user interface.</li>
             <li>Requests: To make API calls to the BoredAPI.</li>
         </ul>
     </div>
     <div class="project">
         <h2>Arduino AQI Tracker</h2>
         <a href="https://github.com/caseytechschool-cts/Arduino_AQI-tracker" target="_blank" rel="noopener noreferrer">Project URL</a>
-        <p>The "Arduino AQI Tracker" project is designed to monitor air quality by tracking the Air Quality Index (AQI) using an Arduino board. The project includes code to read data from air quality sensors and display the AQI on an LCD screen, providing real-time updates on the air quality status.</p>
+        <p>The "Arduino AQI Tracker" project is designed to monitor air quality by tracking the Air Quality Index (AQI) using an Arduino board. The project includes code to read data from air quality API and display the AQI on an LCD screen, providing real-time updates on the air quality status.</p>
         <h3>Technologies Used</h3>
         <ul>
             <li>Arduino: Microcontroller platform used for reading sensor data and controlling outputs.</li>
             <li>Python: For additional data processing and analysis.</li>
             <li>C++: Programming language used for the Arduino code.</li>
-            <li>Air Quality Sensors: Hardware components to measure air quality metrics.</li>
+            <li>Air Quality API: Airvisual API components to get the air quality of a user's city.</li>
         </ul>
     </div>
     <div class="project">
