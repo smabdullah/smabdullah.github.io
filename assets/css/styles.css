@@ -324,6 +324,32 @@ hr {
     text-decoration: none;
 }
 
+#country-info-project {
+    margin: 20px 0;
+}
+
+#country-info-project input {
+    padding: 10px;
+    margin: 10px 0;
+    width: 80%;
+}
+
+#country-info-project button {
+    padding: 10px 20px;
+    background-color: var(--primary-colour);
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+#country-info-project button:hover {
+    background-color: #28cc8a;
+}
+
+#country-info-project #countryInfo {
+    margin-top: 20px;
+}
+
 
 /* Media Queries for Responsive Design */
 

@@ -28,6 +28,9 @@ permalink: /projects/
             <li>OpenCV: Used for handling the live video feed from the drone.</li>
             <li>Tello SDK: For drone control and communication.</li>
         </ul>
+        <div class="demo-btn">
+            <a href="https://github.com/caseytechschool-cts/Flywithme/releases/download/v1.0.0.0-rc/FlywithME.exe" target="_blank" rel="noopener noreferrer" class="btn">Download It!</a>
+        </div>
     </div>
     <div class="project">
         <h2>Country-info</h2>
@@ -39,6 +42,9 @@ permalink: /projects/
             <li>PySimpleGUI: For creating the graphical user interface.</li>
             <li>Requests: To make API calls and fetch data from the RestCountries API.</li>
         </ul>
+        <div class="demo-btn">
+            <a href="/countryinfo/index.md" target="_blank" rel="noopener noreferrer" class="btn">Live Demo</a>
+        </div>
     </div>
     <div class="project">
         <h2>AreYouBored</h2>
