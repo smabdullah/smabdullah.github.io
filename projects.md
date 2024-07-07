@@ -43,7 +43,7 @@ permalink: /projects/
             <li>Requests: To make API calls and fetch data from the RestCountries API.</li>
         </ul>
         <div class="demo-btn">
-            <a href="/countryinfo/index.md" target="_blank" rel="noopener noreferrer" class="btn">Live Demo</a>
+            <a href="/countryinfo/" target="_blank" rel="noopener noreferrer" class="btn">Live Demo</a>
         </div>
     </div>
     <div class="project">

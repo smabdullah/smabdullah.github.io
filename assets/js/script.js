@@ -33,4 +33,5 @@ async function fetchCountryInfo() {
       <p><strong>Driving Side:</strong> ${country.car.side}</p>
       <p><strong>Week Start:</strong> ${country.startOfWeek}</p>
   `;
+  countryName.innerHTML = "";
 }

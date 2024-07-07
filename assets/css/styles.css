@@ -326,6 +326,8 @@ hr {
 
 #country-info-project {
     margin: 20px 0;
+    text-align: center;
+    width: 50%;
 }
 
 #country-info-project input {
@@ -340,10 +342,12 @@ hr {
     border: none;
     border-radius: 4px;
     cursor: pointer;
+    color: white;
 }
 
 #country-info-project button:hover {
     background-color: #28cc8a;
+    color: black;
 }
 
 #country-info-project #countryInfo {
