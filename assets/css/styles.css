@@ -303,6 +303,7 @@ hr {
 .project ul {
     list-style-type: circle;
     margin-left: 20px;
+    text-align: left;
 }
 
 .project li::marker {
@@ -317,6 +318,7 @@ hr {
     text-decoration: none;
     border-radius: 10px;
     margin-bottom: 20px;
+    margin-top: 20px;
 }
 
 
