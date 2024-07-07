@@ -325,13 +325,15 @@ hr {
 }
 
 #country-info-project {
-    margin: 20px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
 }
 
 #country-info-project input {
     padding: 10px;
-    max-width: fit-content;
-    margin-inline: auto;
 }
 
 #country-info-project button {
@@ -341,8 +343,6 @@ hr {
     border-radius: 4px;
     cursor: pointer;
     color: white;
-    max-width: fit-content;
-    margin-inline: auto;
 }
 
 #country-info-project button:hover {
@@ -352,8 +352,6 @@ hr {
 
 #country-info-project #countryInfo {
     margin-top: 20px;
-    max-width: fit-content;
-    margin-inline: auto;
 }
 
 
