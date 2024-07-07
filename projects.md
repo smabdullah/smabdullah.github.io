@@ -38,7 +38,6 @@ permalink: /projects/
             <li>Python: The core programming language for the project.</li>
             <li>PySimpleGUI: For creating the graphical user interface.</li>
             <li>Requests: To make API calls and fetch data from the RestCountries API.</li>
-            <li>PyCharm: Used as the integrated development environment (IDE).</li>
         </ul>
     </div>
     <div class="project">
@@ -74,6 +73,19 @@ permalink: /projects/
             <li>Kivy: Framework for building the graphical user interface.</li>
             <li>Royalty-free Images: Sourced from Pixabay for the game visuals.</li>
         </ul>
+    </div>
+    <div class="project">
+        <h2>Find a GitHub User</h2>
+        <a href="https://github.com/smabdullah/FindaGitHubUser" target="_blank" rel="noopener noreferrer">Project URL</a>
+        <p>The "Find a GitHub User" repository hosts a React app designed to fetch and display information about GitHub users using the GitHub API. The app takes a username as input and displays details such as the user's name, bio, workplace, location, and avatar. If the username is incorrect, it shows an error message.</p>
+        <h3>Technologies Used</h3>
+        <ul>
+            <li>JavaScript: Core language for app functionality.</li>
+            <li>React: Framework for building the user interface.</li>
+            <li>HTML: Markup language for structuring the app.</li>
+            <li>CSS: Styling the user interface.</li>
+        </ul>
+        <a href="https://find-a-git-user.netlify.app/" target="_blank" rel="noopener noreferrer" class="btn">Live Demo</a>
     </div>
 </div>
 <footer>
