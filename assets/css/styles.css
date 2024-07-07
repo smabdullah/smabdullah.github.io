@@ -300,7 +300,7 @@ hr {
 }
 
 .project ul {
-    list-style-type: disc;
+    list-style-type: circle;
     margin-left: 20px;
 }
 
@@ -356,7 +356,7 @@ hr {
     }
 
     .project {
-        width: 50%;
+        width: 45%;
     }
 }
 
