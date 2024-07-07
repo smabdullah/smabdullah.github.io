@@ -331,6 +331,7 @@ hr {
     align-items: center;
     gap: 5px;
     width: 100%;
+    margin-inline: auto;
 }
 
 #country-info-project input {
