@@ -35,3 +35,16 @@ async function fetchCountryInfo() {
   `;
   countryName.innerHTML = "";
 }
+
+document.getElementById('activityButton').addEventListener('click', function() {
+  fetch('https://www.boredapi.com/api/activity')
+    .then(response => response.json())
+    .then(data => {
+      document.getElementById('activityResult').innerText = data.activity;
+    })
+    .catch(error => {
+      console.error('Error fetching activity:', error);
+      document.getElementById('activityResult').innerText = 'Sorry, something went wrong. Please try again.';
+    });
+});
+

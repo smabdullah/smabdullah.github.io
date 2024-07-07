@@ -56,6 +56,9 @@ permalink: /projects/
             <li>PySimpleGUI: For creating the graphical user interface.</li>
             <li>Requests: To make API calls to the BoredAPI.</li>
         </ul>
+        <div class="demo-btn">
+            <a href="/areyoubored/" target="_blank" rel="noopener noreferrer" class="btn">Live Demo</a>
+        </div>
     </div>
     <div class="project">
         <h2>Arduino AQI Tracker</h2>

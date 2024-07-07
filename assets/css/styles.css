@@ -331,7 +331,7 @@ hr {
     justify-content: center;
     align-items: center;
     gap: 5px;
-    width: 60%;
+    width: 80%;
     margin-inline: auto;
 }
 
@@ -356,6 +356,30 @@ hr {
 #country-info-project #countryInfo {
     margin-top: 20px;
 }
+
+.are-you-bored {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  #activityButton {
+    background-color: var(--primary-colour);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  #activityButton:hover {
+    background-color: #2ecc71;
+    color: black;
+  }
+  
+  #activityResult {
+    margin-top: 20px;
+    font-size: 1.2em;
+  }
+  
 
 
 /* Media Queries for Responsive Design */
@@ -406,6 +430,10 @@ hr {
 
     .project {
         width: 45%;
+    }
+
+    #country-info-project {
+        width: 100%;
     }
 }
 
