@@ -327,10 +327,11 @@ hr {
 #country-info-project {
     display: flex;
     flex-direction: column;
+    flex-wrap: wrap;
     justify-content: center;
     align-items: center;
     gap: 5px;
-    width: 100%;
+    width: 50%;
     margin-inline: auto;
 }
 
