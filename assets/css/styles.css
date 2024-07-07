@@ -326,8 +326,10 @@ hr {
 
 #country-info-project {
     margin: 20px 0;
-    text-align: center;
-    width: 50%;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
 }
 
 #country-info-project input {
