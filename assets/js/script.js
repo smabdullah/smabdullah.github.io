@@ -37,14 +37,37 @@ async function fetchCountryInfo() {
 }
 
 document.getElementById('activityButton').addEventListener('click', function() {
-  fetch('https://www.boredapi.com/api/activity')
+  const category = document.getElementById('categorySelect').value;
+  let url;
+
+  if (category) {
+    url = `https://bored-api.appbrewery.com/filter?type=${category}`;
+  } else {
+    url = 'https://bored-api.appbrewery.com/random';
+  }
+
+  fetch(url)
     .then(response => response.json())
     .then(data => {
-      document.getElementById('activityResult').innerText = data.activity;
+      const activities = Array.isArray(data) ? data : [data];
+      let resultHTML = '';
+
+      activities.forEach(activity => {
+        const { activity: name, kidFriendly, link } = activity;
+        const kidFriendlyText = kidFriendly ? 'Kid-friendly' : 'Not kid-friendly';
+        if (link) {
+          resultHTML += `<p><a href="${link}" target="_blank">${name}</a> - ${kidFriendlyText}</p>`;
+        } else {
+          resultHTML += `<p>${name} - ${kidFriendlyText}</p>`;
+        }
+      });
+
+      document.getElementById('activityResult').innerHTML = resultHTML;
     })
     .catch(error => {
       console.error('Error fetching activity:', error);
       document.getElementById('activityResult').innerText = 'Sorry, something went wrong. Please try again.';
     });
 });
+
 
