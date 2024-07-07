@@ -85,7 +85,9 @@ permalink: /projects/
             <li>HTML: Markup language for structuring the app.</li>
             <li>CSS: Styling the user interface.</li>
         </ul>
-        <a href="https://find-a-git-user.netlify.app/" target="_blank" rel="noopener noreferrer" class="btn">Live Demo</a>
+        <div class="demo-btn">
+            <a href="https://find-a-git-user.netlify.app/" target="_blank" rel="noopener noreferrer" class="btn">Live Demo</a>
+        </div>
     </div>
 </div>
 <footer>

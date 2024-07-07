@@ -276,7 +276,6 @@ hr {
     padding: 20px;
     width: 30%;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    text-align: center;
 }
 
 .project h2 {
@@ -303,7 +302,6 @@ hr {
 .project ul {
     list-style-type: circle;
     margin-left: 20px;
-    text-align: left;
 }
 
 .project li::marker {
@@ -319,6 +317,10 @@ hr {
     border-radius: 10px;
     margin-bottom: 20px;
     margin-top: 20px;
+}
+
+.project .demo-btn {
+    text-align: center;
 }
 
 
