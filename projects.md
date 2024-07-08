@@ -99,8 +99,3 @@ permalink: /projects/
         </div>
     </div>
 </div>
-<footer>
-    <div class="container">
-        <p>&copy; 2024 S M Abdullah. All rights reserved.</p>
-    </div>
-</footer>

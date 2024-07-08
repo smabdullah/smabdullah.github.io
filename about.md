@@ -78,9 +78,3 @@ permalink: /about/
         <li>4th position in NSU Computer Programming Contest 2007, Team “DU BRAVE HEARTS”</li>
     </ul>
 </div>
-<footer>
-    <div class="container">
-        <p>&copy; 2024 S M Abdullah. All rights reserved.</p>
-    </div>
-</footer>
-

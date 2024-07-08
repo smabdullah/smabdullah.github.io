@@ -364,7 +364,7 @@ hr {
   
   #activityButton {
     background-color: var(--primary-colour);
-    color: black;
+    color: white;
     border: none;
     padding: 10px 20px;
     cursor: pointer;
@@ -372,7 +372,7 @@ hr {
   
   #activityButton:hover {
     background-color: #2ecc71;
-    color: white;
+    color: black;
   }
   
   #activityResult {

@@ -33,17 +33,18 @@ async function fetchCountryInfo() {
       <p><strong>Driving Side:</strong> ${country.car.side}</p>
       <p><strong>Week Start:</strong> ${country.startOfWeek}</p>
   `;
-  countryName.innerHTML = "";
+  document.getElementById('countryInput').innerHTML = "";
 }
 
 document.getElementById('activityButton').addEventListener('click', function() {
   const category = document.getElementById('categorySelect').value;
+  const proxyUrl = 'https://cors-anywhere.herokuapp.com/';
   let url;
 
   if (category) {
-    url = `https://bored-api.appbrewery.com/filter?type=${category}`;
+    url = `${proxyUrl}https://bored-api.appbrewery.com/filter?type=${category}`;
   } else {
-    url = 'https://bored-api.appbrewery.com/random';
+    url = `${proxyUrl}https://bored-api.appbrewery.com/random`;
   }
 
   fetch(url)
@@ -69,5 +70,3 @@ document.getElementById('activityButton').addEventListener('click', function() {
       document.getElementById('activityResult').innerText = 'Sorry, something went wrong. Please try again.';
     });
 });
-
-

@@ -42,8 +42,3 @@ permalink: /publications/
         <p class="article">This paper presents a novel, parameter-free hierarchical image segmentation algorithm that uses minimum spanning trees. The method converts an image into a tree structure and generates multiple levels of segmentation in a single pass, without the need for iterative processing. It considers both segment levels and distances when merging, resulting in more homogeneous segments. The algorithm is versatile, as it can work with any distance function and can be adapted for clustering. A key feature is its segment visualizer, which allows users to select the most appropriate level of segmentation for their needs. When tested on popular segmentation datasets, the method showed competitive performance compared to existing algorithms, while offering the advantages of being parameter-free and non-iterative. This approach provides a quick and flexible way to explore the natural connectivity of image pixels at different levels of detail.</p>
     </div>
 </div>
-<footer>
-    <div class="container">
-        <p>&copy; 2024 S M Abdullah. All rights reserved.</p>
-    </div>
-</footer>
