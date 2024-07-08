@@ -42,10 +42,9 @@ function areYouBored() {
   let url;
 
   if (category) {
-    //url = `${proxyUrl}https://bored-api.appbrewery.com/filter?type=${category}`;
     url = `${proxyUrl}https://bored-api.appbrewery.com/filter?type=${category}`;
   } else {
-    url = `https://bored-api.appbrewery.com/random`;
+    url = `${proxyUrl}https://bored-api.appbrewery.com/random`;
   }
 
   fetch(url)
@@ -58,9 +57,9 @@ function areYouBored() {
         const { activity: name, kidFriendly, link } = activity;
         const kidFriendlyText = kidFriendly ? 'Kid-friendly' : 'Not kid-friendly';
         if (link) {
-          resultHTML += `<p><a href="${link}" target="_blank">${name}</a> - ${kidFriendlyText}</p>`;
+          resultHTML += `<div class="activity"><p><a href="${link}" target="_blank">${name}</a> - ${kidFriendlyText}</div></p>`;
         } else {
-          resultHTML += `<p>${name} - ${kidFriendlyText}</p>`;
+          resultHTML += `<div class="activity"><p>${name} - ${kidFriendlyText}</div></p>`;
         }
       });
 

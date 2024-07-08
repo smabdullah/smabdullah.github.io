@@ -376,13 +376,35 @@ hr {
 }
   
 #activityResult {
-    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    width: 60%;
+    margin-inline: auto;
     font-size: 1.2em;
 }
   
 #categorySelect {
     margin: 10px;
     padding: 10px;
+}
+
+.footer-small-text {
+    padding-top: 10px;
+    color: #ccc;
+    font-size: small;
+}
+
+.activity {
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
   
 
@@ -431,12 +453,16 @@ hr {
     .contact-icon {
         width: 50%;
     }
-
+ 
     .project {
         width: 45%;
     }
 
     #country-info-project {
+        width: 100%;
+    }
+
+    #activityResult {
         width: 100%;
     }
 }
