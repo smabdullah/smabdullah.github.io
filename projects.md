@@ -98,4 +98,18 @@ permalink: /projects/
             <a href="https://find-a-git-user.netlify.app/" target="_blank" rel="noopener noreferrer" class="btn">Live Demo</a>
         </div>
     </div>
+    <div class="project">
+        <h2>What's the weather?</h2>
+        <a href="https://github.com/caseytechschool-cts/Python-Club-Term-2-2022/tree/main/Final_project" target="_blank" rel="noopener noreferrer">Project URL</a>
+        <p>Displays weather information based on the user’s postcode.</p>
+        <h3>Technologies Used</h3>
+        <ul>
+            <li>Python: Core language for app functionality.</li>
+            <li>PySimpleGUI: Framework for building the user interface.</li>
+            <li>APIs: To get weather data.</li>
+        </ul>
+        <div class="demo-btn">
+            <a href="https://github.com/caseytechschool-cts/Python-Club-Term-2-2022/releases/tag/v1.0.0" target="_blank" rel="noopener noreferrer" class="btn">Download It!</a>
+        </div>
+    </div>
 </div>
