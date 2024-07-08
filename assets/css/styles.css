@@ -13,7 +13,6 @@ body {
     line-height: 1.6;
     background: #fff;
     color: #333;
-    position: relative;
 }
 
 .header-content {
@@ -391,12 +390,6 @@ hr {
 #categorySelect {
     margin: 10px;
     padding: 10px;
-}
-
-.footer {
-    position: absolute;
-    bottom: 0;
-    width: 100%;
 }
 
 .footer-small-text {
