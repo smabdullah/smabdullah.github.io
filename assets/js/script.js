@@ -5,7 +5,7 @@ function myFunction() {
     } else {
       x.className = "topnav";
     }
-  }
+}
 
 async function fetchCountryInfo() {
   const countryName = document.getElementById('countryInput').value;
@@ -36,15 +36,16 @@ async function fetchCountryInfo() {
   document.getElementById('countryInput').innerHTML = "";
 }
 
-document.getElementById('activityButton').addEventListener('click', function() {
+function areYouBored() {
   const category = document.getElementById('categorySelect').value;
   const proxyUrl = 'https://cors-anywhere.herokuapp.com/';
   let url;
 
   if (category) {
+    //url = `${proxyUrl}https://bored-api.appbrewery.com/filter?type=${category}`;
     url = `${proxyUrl}https://bored-api.appbrewery.com/filter?type=${category}`;
   } else {
-    url = `${proxyUrl}https://bored-api.appbrewery.com/random`;
+    url = `https://bored-api.appbrewery.com/random`;
   }
 
   fetch(url)
@@ -69,4 +70,4 @@ document.getElementById('activityButton').addEventListener('click', function() {
       console.error('Error fetching activity:', error);
       document.getElementById('activityResult').innerText = 'Sorry, something went wrong. Please try again.';
     });
-});
+}

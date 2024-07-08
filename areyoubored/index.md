@@ -15,6 +15,6 @@ permalink: /areyoubored/
     <option value="relaxation">Relaxation</option>
     <option value="busywork">Busywork</option>
   </select>
-  <button id="activityButton">Get Activity</button>
+  <button id="activityButton" onclick="areYouBored()">Get Activity</button>
   <div id="activityResult"></div>
 </div>

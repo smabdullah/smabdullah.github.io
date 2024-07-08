@@ -360,30 +360,30 @@ hr {
 .are-you-bored {
     text-align: center;
     margin: 20px;
-  }
+}
   
-  #activityButton {
+#activityButton {
     background-color: var(--primary-colour);
     color: white;
     border: none;
     padding: 10px 20px;
     cursor: pointer;
-  }
+}
   
-  #activityButton:hover {
+#activityButton:hover {
     background-color: #2ecc71;
     color: black;
-  }
+}
   
-  #activityResult {
+#activityResult {
     margin-top: 20px;
     font-size: 1.2em;
-  }
+}
   
-  #categorySelect {
+#categorySelect {
     margin: 10px;
     padding: 10px;
-  }
+}
   
 
 /* Media Queries for Responsive Design */
