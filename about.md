@@ -86,15 +86,13 @@ permalink: /about/
                 <li>ICME 2014, Chengdu, China</li>
             </ul>
         </li>
-        <li>4<sup>th</sup> Place, International Robotics Intelligent Systems Competition 2010
+        <li>4<sup>th</sup> Place, International Robotics Intelligent Systems Competition 2010, NextSapiens, India
             <ul>
-                <li>NextSapiens, India</li>
                 <li>Showcased innovative engineering skills</li>
             </ul>
         </li>
         <li>4<sup>th</sup> Position, NSU Computer Programming Contest 2007
             <ul>
-                <li>Team "DU BRAVE HEARTS"</li>
                 <li>Demonstrated strong coding and problem-solving abilities</li>
             </ul>
         </li>
