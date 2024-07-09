@@ -11,12 +11,12 @@ permalink: /about/
     <h3>STEAM Teacher, Casey Tech School</h3>
     <p><strong>January 2022 - Present</strong></p>
     <ul>
-        <li>Design, develop, and conduct digital technology-based STEAM programs following the design cycle for secondary school students across the Casey local area.</li>
+        <li>Spearheaded innovative STEAM programs leveraging cutting-edge digital technologies for secondary school students across the Casey local area, employing a rigorous design cycle methodology to cultivate critical thinking and ignite passion for technology-driven learning.</li>
     </ul>
     <h3>STEAM Technician, Casey Tech School</h3>
     <p><strong>February 2021 - January 2022</strong></p>
     <ul>
-        <li>Designed, prepared, and ran digital technology-based STEAM programs for secondary school students across the Casey local area.</li>
+        <li>Engineered and implemented cutting-edge digital STEAM programs, engaging hundreds of secondary school students across Casey, fostering technological literacy and inspiring the next generation of innovators.</li>
     </ul>
     <h3>Casual Software Engineer, Additive Assurance</h3>
     <p><strong>September 2020 - November 2020</strong></p>
@@ -26,17 +26,17 @@ permalink: /about/
     <h3>Graduate Teaching Associate, Monash University</h3>
     <p><strong>March 2015 - July 2021</strong></p>
     <ul>
-        <li>Conducted several undergraduate-level courses, including practical classes, assessments, student consultations, and final exam marking.</li>
+        <li>Orchestrated comprehensive undergraduate curriculum delivery, encompassing dynamic practical sessions, rigorous assessments, personalised student mentoring, and meticulous final exam evaluation for multiple courses.</li>
     </ul>
     <h3>Casual Sessional Staff, RMIT University</h3>
     <p><strong>March 2020 - June 2020</strong></p>
     <ul>
-        <li>Conducted the postgraduate course COSC2531 [Programming Fundamentals].</li>
+        <li>Spearheaded the delivery of COSC2531 [Programming Fundamentals], a pivotal postgraduate course, cultivating essential Java coding skills and computational thinking in aspiring tech professionals.</li>
     </ul>
     <h3>Lecturer, United International University, Bangladesh</h3>
     <p><strong>January 2011 - February 2019 (including study leave)</strong></p>
     <ul>
-        <li>Conducted undergraduate courses, prepared and moderated exams, and managed exam results.</li>
+        <li>Orchestrated comprehensive undergraduate programs, including curriculum design, rigorous assessment creation, and meticulous exam moderation, while implementing robust systems for results management and academic integrity.</li>
     </ul>
     <hr>
     <h2>Education</h2>
@@ -66,15 +66,37 @@ permalink: /about/
         <li><strong>C++: Smart Pointers</strong> - LinkedIn Learning - July 2019</li>
     </ul>
     <hr>
-    <h2>Awards and Achievements</h2>
+    <h2>Prestigious Recognitions and Competitive Grants</h2>
     <ul>
-        <li>DICTA 2016 APRS/CiSRA Best Student Paper Award</li>
-        <li>Travel grants to attend DICTA 2016, Gold Coast, Australia</li>
-        <li>IPRS and APA scholarships for PhD at Monash University</li>
-        <li>DUPRS scholarship at Deakin University (not availed)</li>
-        <li>Travel grants to attend ICME 2014, Chengdu, China</li>
-        <li>Postgraduate Publication Award (PPA), Monash University</li>
-        <li>4th position in International Robotics Intelligent Systems Competition 2010, NextSapiens, India</li>
-        <li>4th position in NSU Computer Programming Contest 2007, Team “DU BRAVE HEARTS”</li>
+        <li>APRS/CiSRA Best Student Paper Award at DICTA 2016
+            <ul><li>Recognised for outstanding research contribution</li></ul>
+        </li>
+        <li>International Postgraduate Research Scholarship (IPRS) and Australian Postgraduate Award (APA)
+            <ul><li>Secured for doctoral studies at Monash University</li></ul>
+        </li>
+        <li>Deakin University Postgraduate Research Scholarship (DUPRS)
+            <ul><li>Offered in acknowledgment of academic excellence (not availed)</li></ul>
+        </li>
+        <li>Postgraduate Publication Award (PPA) from Monash University
+            <ul><li>Acknowledged for research impact and dissemination</li></ul>
+        </li>
+        <li>International Travel Grants
+            <ul>
+                <li>DICTA 2016, Gold Coast, Australia</li>
+                <li>ICME 2014, Chengdu, China</li>
+            </ul>
+        </li>
+        <li>4<sup>th</sup> Place, International Robotics Intelligent Systems Competition 2010
+            <ul>
+                <li>NextSapiens, India</li>
+                <li>Showcased innovative engineering skills</li>
+            </ul>
+        </li>
+        <li>4<sup>th</sup> Position, NSU Computer Programming Contest 2007
+            <ul>
+                <li>Team "DU BRAVE HEARTS"</li>
+                <li>Demonstrated strong coding and problem-solving abilities</li>
+            </ul>
+        </li>
     </ul>
 </div>
