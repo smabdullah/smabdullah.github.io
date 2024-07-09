@@ -36,6 +36,11 @@ body {
     overflow: hidden;
 }
 
+ul ul {
+    list-style-type: circle;
+    margin-left: 20px;
+}
+
 /* Style the links inside the navigation bar */
 .topnav a {
   float: left;
