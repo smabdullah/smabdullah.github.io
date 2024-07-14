@@ -139,7 +139,7 @@ footer {
 
 .about-container {
     width: 100%;
-    margin: 20px;
+    margin: 0 auto;
     padding: 20px;
     font-family: Arial, sans-serif;
     line-height: 1.6;
