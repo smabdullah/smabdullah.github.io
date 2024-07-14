@@ -80,6 +80,9 @@ permalink: /about/
         <li>Postgraduate Publication Award (PPA) from Monash University
             <ul><li>Acknowledged for research impact and dissemination</li></ul>
         </li>
+        <li>Vice-Chancellor’s Commendation for Thesis Excellence 2014 from Monash University
+            <ul><li>The Vice-Chancellor’s Commendation Awards for Masters Thesis Excellence are awarded annually to students who have presented the best master’s theses of the year.</li></ul>
+        </li>
         <li>International Travel Grants
             <ul>
                 <li>DICTA 2016, Gold Coast, Australia</li>
