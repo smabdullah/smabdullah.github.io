@@ -99,6 +99,33 @@ header .btn {
     text-decoration: none;
     border-radius: 10px;
     margin-bottom: 20px;
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+}
+
+header btn::before {
+    content: '';
+    position: absolute;
+    top: -2px;
+    left: -2px;
+    right: -2px;
+    bottom: -2px;
+    background: linear-gradient(45deg, #ff0066, #ff6600, #ffcc00, #00ffcc, #0066ff);
+    z-index: -1;
+    border-radius: 10px;
+}
+
+header .btn::after {
+    content: '';
+    position: absolute;
+    top: 2px;
+    left: 2px;
+    right: 2px;
+    bottom: 2px;
+    background: var(--primary-colour);
+    z-index: -1;
+    border-radius: 10px;
 }
 
 .stats {
