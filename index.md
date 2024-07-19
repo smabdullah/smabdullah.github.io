@@ -19,12 +19,12 @@ title: Home
 
 <div class="stats">
     <div class="stat">
-      <h2>8+ years</h2>
-      <p>Tertiary Teaching Experience</p>
+      <h2>8yr.</h2>
+      <p>Tertiary Teaching</p>
     </div>
     <div class="stat">
-      <h2>3+ years</h2>
-      <p>STEAM Teaching Experience</p>
+      <h2>3yr.</h2>
+      <p>STEAM Teaching</p>
     </div>
     <div class="stat">
       <h2>8</h2>
