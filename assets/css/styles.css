@@ -324,7 +324,7 @@ hr {
 }
 
 .project .btn{
-    /* display: inline-block; */
+    display: inline-block;
     color: #fff;
     background:  var(--primary-colour);
     padding: 10px 20px;

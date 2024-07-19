@@ -21,9 +21,6 @@ permalink: /projects/
     <div class="project">
         <h2>Flywithme</h2>
         <a href="https://github.com/caseytechschool-cts/Flywithme" target="_blank" rel="noopener noreferrer">Project URL</a>
-        <div class="demo-btn">
-            <a href="https://github.com/caseytechschool-cts/Flywithme/releases/download/v1.0.0.0-rc/FlywithME.exe" target="_blank" rel="noopener noreferrer" class="btn">Download It!</a>
-        </div>
         <p>Flywithme is a Python-based GUI application designed to control the Tello Edu drone. The software provides a user-friendly interface for drone enthusiasts, featuring dynamic battery indicators, live video feeds, and controls for performing various aerial maneuvers. It aims to enhance the drone flying experience with easy navigation, emergency stop functionality, and seamless landing controls.</p>
         <h3>Technologies Used</h3>
         <ul>
@@ -31,13 +28,13 @@ permalink: /projects/
             <li>OpenCV: Used for handling the live video feed from the drone.</li>
             <li>Tello SDK: For drone control and communication.</li>
         </ul>
+        <div class="demo-btn">
+            <a href="https://github.com/caseytechschool-cts/Flywithme/releases/download/v1.0.0.0-rc/FlywithME.exe" target="_blank" rel="noopener noreferrer" class="btn">Download It!</a>
+        </div>
     </div>
     <div class="project">
         <h2>Country-info</h2>
         <a href="https://github.com/caseytechschool-cts/country-info" target="_blank" rel="noopener noreferrer">Project URL</a>
-        <div class="demo-btn">
-            <a href="/countryinfo/" target="_blank" rel="noopener noreferrer" class="btn">Live Demo</a>
-        </div>
         <p>The "Country Info" project is a Python-based application that allows users to input the name of a country and retrieve relevant information such as the capital, area, population, car driving side, and start of the week. The application uses a graphical user interface (GUI) created with PySimpleGUI and fetches data from the RestCountries API.</p>
         <h3>Technologies Used</h3>
         <ul>
@@ -45,13 +42,13 @@ permalink: /projects/
             <li>PySimpleGUI: For creating the graphical user interface.</li>
             <li>Requests: To make API calls and fetch data from the RestCountries API.</li>
         </ul>
+        <div class="demo-btn">
+            <a href="/countryinfo/" target="_blank" rel="noopener noreferrer" class="btn">Live Demo</a>
+        </div>
     </div>
     <div class="project">
         <h2>AreYouBored</h2>
         <a href="https://github.com/caseytechschool-cts/AreYouBored" target="_blank" rel="noopener noreferrer">Project URL</a>
-        <div class="demo-btn">
-            <a href="/areyoubored/" target="_blank" rel="noopener noreferrer" class="btn">Live Demo</a>
-        </div>
         <p>"AreYouBored" is a Python-based GUI application that suggests activities to users who are feeling bored. The application utilizes the BoredAPI to fetch random activities based on different categories like education, recreational, social, DIY, charity, cooking, relaxation, music, and busywork. The user-friendly interface allows users to select activity categories and view detailed descriptions of suggested activities.</p>
         <h3>Technologies Used</h3>
         <ul>
@@ -59,6 +56,9 @@ permalink: /projects/
             <li>PySimpleGUI: For creating the graphical user interface.</li>
             <li>Requests: To make API calls to the BoredAPI.</li>
         </ul>
+        <div class="demo-btn">
+            <a href="/areyoubored/" target="_blank" rel="noopener noreferrer" class="btn">Live Demo</a>
+        </div>
     </div>
     <div class="project">
         <h2>Arduino AQI Tracker</h2>
@@ -86,9 +86,6 @@ permalink: /projects/
     <div class="project">
         <h2>Find a GitHub User</h2>
         <a href="https://github.com/smabdullah/FindaGitHubUser" target="_blank" rel="noopener noreferrer">Project URL</a>
-        <div class="demo-btn">
-            <a href="https://find-a-git-user.netlify.app/" target="_blank" rel="noopener noreferrer" class="btn">Live Demo</a>
-        </div>
         <p>The "Find a GitHub User" repository hosts a React app designed to fetch and display information about GitHub users using the GitHub API. The app takes a username as input and displays details such as the user's name, bio, workplace, location, and avatar. If the username is incorrect, it shows an error message.</p>
         <h3>Technologies Used</h3>
         <ul>
@@ -97,13 +94,13 @@ permalink: /projects/
             <li>HTML: Markup language for structuring the app.</li>
             <li>CSS: Styling the user interface.</li>
         </ul>
+        <div class="demo-btn">
+            <a href="https://find-a-git-user.netlify.app/" target="_blank" rel="noopener noreferrer" class="btn">Live Demo</a>
+        </div>
     </div>
     <div class="project">
         <h2>What's the weather?</h2>
         <a href="https://github.com/caseytechschool-cts/Python-Club-Term-2-2022/tree/main/Final_project" target="_blank" rel="noopener noreferrer">Project URL</a>
-        <div class="demo-btn">
-            <a href="https://github.com/caseytechschool-cts/Python-Club-Term-2-2022/releases/tag/v1.0.0" target="_blank" rel="noopener noreferrer" class="btn">Download It!</a>
-        </div>
         <p>Delivers location-specific weather data based on user postcodes, showcasing data retrieval and presentation skills</p>
         <h3>Technologies Used</h3>
         <ul>
@@ -111,5 +108,8 @@ permalink: /projects/
             <li>PySimpleGUI: Framework for building the user interface.</li>
             <li>APIs: To get weather data.</li>
         </ul>
+        <div class="demo-btn">
+            <a href="https://github.com/caseytechschool-cts/Python-Club-Term-2-2022/releases/tag/v1.0.0" target="_blank" rel="noopener noreferrer" class="btn">Download It!</a>
+        </div>
     </div>
 </div>
