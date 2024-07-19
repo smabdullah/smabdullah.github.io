@@ -144,7 +144,7 @@ footer {
 }
 
 .about-container {
-    width: 100%;
+    width: 100dvh;
     margin: 0 20px;
     padding: 20px;
     font-family: Arial, sans-serif;
