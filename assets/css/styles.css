@@ -469,10 +469,11 @@ hr {
     .contact-icon {
         width: 50%;
     }
- 
+    /*
     .project {
         width: 45%;
     }
+        */
 
     #country-info-project {
         width: 100%;
