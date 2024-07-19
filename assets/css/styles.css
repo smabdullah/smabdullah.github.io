@@ -498,4 +498,8 @@ hr {
     .project {
         flex: 100%
     }
+
+    .header-content {
+        grid-template-columns: 1fr;
+    }
 }
