@@ -289,7 +289,7 @@ hr {
     border-radius: 8px;
     margin: 10px;
     padding: 20px;
-    min-width: 30%;
+    flex: 30%;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
@@ -468,11 +468,10 @@ hr {
     .contact-icon {
         width: 50%;
     }
-    /*
+    
     .project {
-        width: 45%;
+        flex: 45%;
     }
-        */
 
     #country-info-project {
         width: 100%;
@@ -498,6 +497,6 @@ hr {
     }
 
     .project {
-        width: 100%;
+        flex: 100%
     }
 }
