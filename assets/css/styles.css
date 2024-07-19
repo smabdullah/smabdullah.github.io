@@ -448,7 +448,7 @@ hr {
 
     .header-content {
         padding: 20px;
-        grid-template-columns: 1fr;
+        /*grid-template-columns: 1fr;*/
     }
     
     .stats {
