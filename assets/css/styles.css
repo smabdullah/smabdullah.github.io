@@ -277,7 +277,7 @@ hr {
 .projects {
     display: flex;
     flex-wrap: wrap;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: space-around;
     gap: 1em;
     color: black;
