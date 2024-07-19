@@ -277,7 +277,7 @@ hr {
 .projects {
     display: flex;
     flex-wrap: wrap;
-    justify-content: start;
+    justify-content: space-evenly;
     gap: 1em;
     padding: 20px;
     background-color: white;
