@@ -18,7 +18,6 @@ title: Home
 </header>
 
 <section class="stats">
-  <div class="container">
     <div class="stat">
       <h2>8+</h2>
       <p>Years of Tertiary Teaching Experience</p>
@@ -35,5 +34,4 @@ title: Home
       <h2>7</h2>
       <p>Research Publications</p>
     </div>
-  </div>
 </section>
