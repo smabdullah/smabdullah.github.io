@@ -104,7 +104,7 @@ header .btn {
     overflow: hidden;
 }
 
-header btn::before {
+header .btn::before {
     content: '';
     position: absolute;
     top: -2px;
