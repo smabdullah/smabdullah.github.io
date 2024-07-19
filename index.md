@@ -17,14 +17,14 @@ title: Home
     <a href="/Resume_latest.pdf" target="_blank" rel="noopener noreferrer" class="btn">Download Resume</a>
 </header>
 
-<section class="stats">
+<div class="stats">
     <div class="stat">
-      <h2>8+</h2>
-      <p>Years of Tertiary Teaching Experience</p>
+      <h2>8+ years</h2>
+      <p>Tertiary Teaching Experience</p>
     </div>
     <div class="stat">
-      <h2>3+</h2>
-      <p>Years of STEAM Teaching Experience</p>
+      <h2>3+ years</h2>
+      <p>STEAM Teaching Experience</p>
     </div>
     <div class="stat">
       <h2>8</h2>
@@ -34,4 +34,4 @@ title: Home
       <h2>7</h2>
       <p>Research Publications</p>
     </div>
-</section>
+</div>
