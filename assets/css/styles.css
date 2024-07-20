@@ -199,6 +199,11 @@ footer {
 
 .about-container h2, .about-container h3 {
     color: var(--primary-colour);
+    padding-bottom: 10px;
+}
+
+.about-container h3 {
+    color: var(--primary-colour);
 }
 
 .about-container a {
@@ -217,6 +222,7 @@ footer {
 
 .about-container li {
     margin-top: 10px;
+    padding-bottom: 10px;
 }
 
 .about-container li::marker {

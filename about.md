@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <div class="about-container">
-    <p class="about-hero">I am an <strong>innovative and passionate STEAM educator and AI specialist</strong> with extensive experience in <strong>image processing, computer vision, and embedded systems</strong>. I design and deliver engaging STEAM programs that foster critical thinking, problem-solving, and hands-on learning experiences. My commitment is to leverage cutting-edge technologies and interdisciplinary approaches to inspire the next generation of STEAM innovators. I am seeking a challenging role that allows me to contribute my expertise in AI, computer programming, and curriculum development to enhance educational outcomes.</p>
+    <p class="about-hero">I am an <strong>innovative and passionate STEAM educator and AI specialist</strong> with extensive experience in <strong>image processing, computer vision, and embedded systems</strong>. I design and deliver engaging STEAM programs that foster critical thinking, problem-solving, and hands-on learning experiences. My commitment is to leverage cutting-edge technologies and interdisciplinary approaches to inspire the next generation of STEAM innovators.</p>
     <hr>
     <h2>Professional Experience</h2>
     <h3>STEAM Teacher, Casey Tech School</h3>
@@ -94,7 +94,7 @@ permalink: /about/
                 <li>Showcased innovative engineering skills</li>
             </ul>
         </li>
-        <li>4<sup>th</sup> Position, NSU Computer Programming Contest 2007
+        <li>4<sup>th</sup> Position, North South University (Bangladesh) Computer Programming Contest 2007
             <ul>
                 <li>Demonstrated strong coding and problem-solving abilities</li>
             </ul>
