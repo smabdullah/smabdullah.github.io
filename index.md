@@ -14,7 +14,7 @@ title: Home
       </div>
     </div>
     <p>I excel at designing and delivering innovative STEAM programs and have extensive experience in image processing, computer vision, and embedded systems.</p>
-    <a href="/Resume_latest.pdf" target="_blank" rel="noopener noreferrer" class="btn">Download Resume</a>
+    <a href="/Resume_latest.pdf" target="_blank" rel="noopener noreferrer" class="btn">View Resume</a>
 </header>
 
 <div class="stats">
