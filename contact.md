@@ -32,7 +32,7 @@ permalink: /contact/
         <span>
             <p>Creator, contributor and maintainer of Casey Tech School's GitHub profile that hosts public coding repositories:
                 <a href="https://github.com/caseytechschool-cts" target="_blank" rel="noopener noreferrer">
-                    <i class="fa fa-github fa-2x" aria-hidden="true"></i>
+                    <i class="fa fa-github" aria-hidden="true"></i>
                 </a></p>
         </span>
     </div>
@@ -40,7 +40,7 @@ permalink: /contact/
         <span>
             <p>Creator, contributor and maintainer of Casey Tech School's GitBook website that publishes step-by-step tutorials on cutting-edge technologies:
                 <a href="https://caseytechschool.gitbook.io/welcome" target="_blank" rel="noopener noreferrer">
-                    <i class="fa fa-book fa-2x" aria-hidden="true"></i>
+                    <i class="fa fa-book" aria-hidden="true"></i>
                 </a></p>
         </span>
     </div>
