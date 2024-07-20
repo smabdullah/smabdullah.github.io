@@ -317,8 +317,8 @@ hr {
     justify-content: center;
     align-items: center;
     flex-direction: row;
-    flex-wrap: nowrap;
-    gap: 5px;
+    flex-wrap: wrap;
+    gap: 10px;
 }
 
 .contact-icon {
