@@ -7,26 +7,28 @@ permalink: /contact/
 <div class="contact-container">
     <h2>Contact</h2>
     <p>You can reach me through the following platforms:</p>
-    <span class="contact-icon">
-        <a href="http://au.linkedin.com/in/smabdullah" target="_blank" rel="noopener noreferrer">
-            <i class="fa fa-linkedin fa-4x" aria-hidden="true"></i>
-        </a>
-    </span>
-    <span class="contact-icon">
-        <a href="mailto:sm.abdullah@chisholm.edu.au" target="_blank" rel="noopener noreferrer">
-            <i class="fa fa-envelope-o fa-4x" aria-hidden="true"></i>
-        </a>
-    </span>
-    <span class="contact-icon">
-        <a href="mailto:sma.csedu@gmail.com" target="_blank" rel="noopener noreferrer">
-            <i class="fa fa-envelope fa-4x" aria-hidden="true"></i>
-        </a>
-    </span>
-    <span class="contact-icon">
-        <a href="https://github.com/smabdullah" target="_blank" rel="noopener noreferrer">
-            <i class="fa fa-github-square fa-4x" aria-hidden="true"></i>
-        </a>
-    </span>
+    <div class="contact-info">
+        <div class="contact-icon">
+            <a href="http://au.linkedin.com/in/smabdullah" target="_blank" rel="noopener noreferrer">
+                <i class="fa fa-linkedin fa-4x" aria-hidden="true"></i>
+            </a>
+        </div>
+        <div class="contact-icon">
+            <a href="mailto:sm.abdullah@chisholm.edu.au" target="_blank" rel="noopener noreferrer">
+                <i class="fa fa-envelope-o fa-4x" aria-hidden="true"></i>
+            </a>
+        </div>
+        <div class="contact-icon">
+            <a href="mailto:sma.csedu@gmail.com" target="_blank" rel="noopener noreferrer">
+                <i class="fa fa-envelope fa-4x" aria-hidden="true"></i>
+            </a>
+        </div>
+        <div class="contact-icon">
+            <a href="https://github.com/smabdullah" target="_blank" rel="noopener noreferrer">
+                <i class="fa fa-github-square fa-4x" aria-hidden="true"></i>
+            </a>
+        </div>
+    </div>
     <hr>
     <div>
         <span>
