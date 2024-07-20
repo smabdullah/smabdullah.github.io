@@ -314,10 +314,10 @@ hr {
 
 .contact-info {
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     align-items: center;
     flex-direction: row;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     gap: 10px;
 }
 
