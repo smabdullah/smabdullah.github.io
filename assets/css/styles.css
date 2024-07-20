@@ -484,7 +484,7 @@ hr {
   .topnav.responsive a {
         float: none;
         display: block;
-        text-align: left;
+        text-align: right;
   }
 
     .header-content {
