@@ -263,6 +263,8 @@ hr {
     font-size: var(--hero-h1-font-size);
     background-color: var(--primary-colour);
     color: #f9f9f9;
+    margin-left: 1em;
+    margin-right: 1em;
 }
 
 .about-container .about-hero strong:nth-child(2){
