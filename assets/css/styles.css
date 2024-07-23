@@ -259,6 +259,16 @@ hr {
     font-style: italic;
 }
 
+.about-container .about-hero strong:nth-child(1){
+    font-size: var(--hero-h1-font-size);
+    background-color: var(--primary-colour);
+    color: #f9f9f9;
+}
+
+.about-container .about-hero strong:nth-child(2){
+    font-size: var(--hero-h2-font-size);
+}
+
 .publications-container {
     width: 100%;
     margin: 0 auto;
