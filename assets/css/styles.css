@@ -1,5 +1,8 @@
 :root {
     --primary-colour: #154734;
+    --hero-h1-font-size: 3.0em;
+    --hero-h2-font-size: 2.0em;
+    --hero-p-font-size: 1.5em;
 }
 
 * {
@@ -28,7 +31,7 @@ body {
 }
 
 .column {
-    padding: 1rem;
+    padding: 1em;
 }
 
 .container {
@@ -81,25 +84,22 @@ header {
 }
 
 header h1 {
-    font-size: 2.5em;
+    font-size: var(--hero-h1-font-size);
     margin-bottom: 10px;
     color:  var(--primary-colour);
 }
 
 header h2 {
-    font-size: 2.0em;
+    font-size: var(--hero-h2-font-size);
     margin-bottom: 10px;
     color:  var(--primary-colour);
 }
 
 .hero-paragraph {
-    font-size: 1.5em;
+    font-size: var(--hero-p-font-size);
     margin-bottom: 20px;
     padding: 2em;
     text-align: center;
-    background: var(--primary-colour);
-    opacity: 0.2;
-    border-radius: 20px;
 }
 
 @keyframes gradientBorder {
@@ -125,7 +125,7 @@ header .btn {
     position: relative;
     z-index: 1;
     overflow: hidden;
-    font-size: 3em;
+    font-size: var(--hero-p-font-size);
 }
 
 header .btn::before {
