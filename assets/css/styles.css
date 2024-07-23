@@ -210,7 +210,7 @@ footer {
 }
 
 .about-hero {
-    padding: 50px;
+    padding: 10px;
     text-align: left;
 }
 
@@ -263,8 +263,8 @@ hr {
     font-size: var(--hero-h1-font-size);
     background-color: var(--primary-colour);
     color: #f9f9f9;
-    margin-left: 1em;
-    margin-right: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
 }
 
 .about-container .about-hero strong:nth-child(2){
