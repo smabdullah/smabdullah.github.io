@@ -5,7 +5,6 @@ permalink: /contact/
 ---
 
 <div class="contact-container">
-    <h2>Contact</h2>
     <p>You can reach me through the following platforms:</p>
     <div class="contact-info">
         <div class="contact-icon">

@@ -8,8 +8,8 @@ permalink: /publications/
         My research focuses on advanced image segmentation algorithms, including <strong>parameter-free hierarchical</strong> methods and <strong>LiDAR data processing</strong> for building extraction. I emphasise non-iterative, flexible approaches that improve image segmentation quality and efficiency. Key contributions include developing <strong>hierarchical mutual nearest neighbour and tree-based segmentation techniques</strong>, and innovative methods for automatic building roof extraction from LiDAR data. Additionally, my work extends to analysing human interactions in meetings using directed acyclic graphs and developing new measures for correlation mining in graph databases.
     </p>
 </div>
+<hr>
 <div class="publications-container">
-    <h2>Publications</h2>
     <div class="publication">
         <h3>Parameter-free hierarchical image segmentation</h3>
         <p><strong>SM Abdullah</strong>, P Tischer, S Wijewickrema, A Paplinski<br>2017 IEEE Visual Communications and Image Processing (VCIP), 2017</p>
