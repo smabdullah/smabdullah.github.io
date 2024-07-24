@@ -1,5 +1,5 @@
 :root {
-    --primary-colour: #154734;
+    --primary-colour: rgb(21, 71, 52);
     --hero-h1-font-size: 3.0em;
     --hero-h2-font-size: 2.0em;
     --hero-p-font-size: 1.0em;
@@ -261,11 +261,10 @@ hr {
 
 .about-container .about-hero strong:nth-child(1){
     font-size: var(--hero-h1-font-size);
-    background-color: var(--primary-colour);
+    background-color: rgba(21, 71, 52, 0.5);
     color:#f9f9f9;
-    padding-left: 0.3em;
-    padding-right: 0.3em;
-    opacity: 0.8;
+    padding: 10px;
+    box-sizing: border-box;
 }
 
 .about-container .about-hero strong:nth-child(2){
