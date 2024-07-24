@@ -31,10 +31,6 @@ body {
     gap: 1 em;
 }
 
-.column {
-    padding: 1em;
-}
-
 .column-img {
     justify-self: center;
     align-self: center;
