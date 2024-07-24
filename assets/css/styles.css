@@ -233,6 +233,13 @@ footer {
     margin: auto;
 }
 
+.publications-hero-container {
+    padding: 10px;
+    text-align: left;
+    max-width: 700px;
+    margin: auto;
+}
+
 .about-container h2, .about-container h3 {
     color: var(--primary-colour);
     padding-bottom: 10px;
@@ -294,11 +301,27 @@ hr {
     box-sizing: border-box;
 }
 
+.publications-hero-container .publications-hero strong:nth-child(1){
+    font-size: var(--hero-h1-font-size);
+    background-color: rgba(21, 71, 52, 0.8);
+    color:#f9f9f9;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
 .about-container .about-hero strong:nth-child(2){
     font-size: var(--hero-h2-font-size);
 }
 
 .projects-hero-container .projects-hero strong:nth-child(2){
+    font-size: var(--hero-h2-font-size);
+}
+
+.publications-hero-container .publications-hero strong:nth-child(2){
+    font-size: var(--hero-h2-font-size);
+}
+
+.publications-hero-container .publications-hero strong:nth-child(3){
     font-size: var(--hero-h2-font-size);
 }
 

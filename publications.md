@@ -3,7 +3,11 @@ layout: default
 title: Publications
 permalink: /publications/
 ---
-
+<div class="publications-hero-container">
+    <p class="publications-hero">
+        My research focuses on advanced image segmentation algorithms, including <strong>parameter-free hierarchical</strong> methods and <strong>LiDAR data processing</strong> for building extraction. I emphasise non-iterative, flexible approaches that improve image segmentation quality and efficiency. Key contributions include developing <strong>hierarchical mutual nearest neighbour and tree-based segmentation techniques</strong>, and innovative methods for automatic building roof extraction from LiDAR data. Additionally, my work extends to analysing human interactions in meetings using directed acyclic graphs and developing new measures for correlation mining in graph databases.
+    </p>
+</div>
 <div class="publications-container">
     <h2>Publications</h2>
     <div class="publication">
