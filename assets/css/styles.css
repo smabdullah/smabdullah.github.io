@@ -27,7 +27,7 @@ body {
 .header-content {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 1 em;
+    gap: 1em;
 }
 
 .column {
@@ -112,6 +112,8 @@ header h2 {
     box-sizing: content-box;
     padding: 10px;
     width: max-content;
+    align-content: center;
+    align-items: center;
 }
 
 @keyframes gradientBorder {
