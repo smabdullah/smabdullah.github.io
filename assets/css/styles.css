@@ -209,9 +209,11 @@ footer {
     color: #333;
 }
 
-.about-hero {
+.about-container .about-hero {
     padding: 10px;
     text-align: left;
+    max-width: 700px;
+    margin: auto;
 }
 
 .about-container h2, .about-container h3 {
