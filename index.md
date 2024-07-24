@@ -9,7 +9,7 @@ title: Home
         <h1>Hello, I'm S M Abdullah, PhD</h1>
         <p class="hero-scale">STEAM Educator | AI Specialist</p>
       </div>
-      <div class="column column-img">
+      <div class="column">
         <img src="/assets/images/Profile.png" alt="S M Abdullah, PhD" class="portrait">
       </div>
     </div>

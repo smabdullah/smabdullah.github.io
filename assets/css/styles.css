@@ -30,7 +30,7 @@ body {
     gap: 1 em;
 }
 
-.column-img {
+.column {
     justify-self: center;
     align-self: center;
 }
