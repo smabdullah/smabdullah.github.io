@@ -107,13 +107,16 @@ header h2 {
     font-size: var(--hero-p-font-size);
     margin-bottom: 20px;
     text-align: center;
-    background-color: rgba(21, 71, 52, 0.8);
-    color:#f9f9f9;
-    box-sizing: content-box;
     padding: 10px;
+    color:#333
+    /*
+    color:#f9f9f9;
+    background-color: rgba(21, 71, 52, 0.8);
+    box-sizing: content-box;
     width: max-content;
     align-content: center;
     align-items: center;
+    */
 }
 
 @keyframes gradientBorder {
