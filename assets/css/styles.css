@@ -110,7 +110,7 @@ header h2 {
 
 .hero-scale {
     font-family: 'myFont';
-    font-size: var(--hero-h2-font-size);
+    font-size: var(--hero-p-font-size);
     margin-bottom: 20px;
     text-align: center;
     padding: 10px;
