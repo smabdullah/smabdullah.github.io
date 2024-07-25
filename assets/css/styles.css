@@ -18,6 +18,11 @@ body {
     color: #333;
 }
 
+@font-face {
+    font-family: myFont;
+    src: url('/assets/fonts/lcddot_tr.ttf');
+}
+
 .root-container {
     display: grid;
     min-height: 100dvh;
@@ -104,11 +109,13 @@ header h2 {
 }
 
 .hero-scale {
+    font-family: myFont;
     font-size: var(--hero-p-font-size);
     margin-bottom: 20px;
     text-align: center;
     padding: 10px;
     color:#333
+
     /*
     color:#f9f9f9;
     background-color: rgba(21, 71, 52, 0.8);
