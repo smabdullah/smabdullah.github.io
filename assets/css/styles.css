@@ -20,7 +20,7 @@ body {
 
 @font-face {
     font-family: 'myFont';
-    src: url('/assets/fonts/7segment.ttf') format('truetype');
+    src: url('../fonts/lcddot_tr.ttf') format('truetype');
 }
 
 .root-container {
