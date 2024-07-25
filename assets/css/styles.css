@@ -1,7 +1,7 @@
 :root {
     --primary-colour: rgb(21, 71, 52);
     --hero-h1-font-size: 3.0em;
-    --hero-h2-font-size: 2.0em;
+    --hero-h2-font-size: 1.5em;
     --hero-p-font-size: 1.0em;
 }
 
@@ -110,7 +110,7 @@ header h2 {
 
 .hero-scale {
     font-family: 'myFont';
-    font-size: var(--hero-p-font-size);
+    font-size: var(--hero-h2-font-size);
     font-weight: bold;
     margin-bottom: 20px;
     text-align: center;
