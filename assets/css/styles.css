@@ -19,8 +19,8 @@ body {
 }
 
 @font-face {
-    font-family: myFont;
-    src: url('/assets/fonts/lcddot_tr.ttf');
+    font-family: 'myFont';
+    src: url('/assets/fonts/lcddot_tr.ttf') format('truetype');
 }
 
 .root-container {
@@ -102,14 +102,14 @@ header h2 {
 }
 
 .hero-paragraph {
-    font-size: var(--hero-p-font-size);
+    font-size: var(--hero-h2-font-size);
     margin-bottom: 20px;
     padding: 2em;
     text-align: center;
 }
 
 .hero-scale {
-    font-family: myFont;
+    font-family: 'myFont';
     font-size: var(--hero-p-font-size);
     margin-bottom: 20px;
     text-align: center;
