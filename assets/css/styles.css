@@ -612,14 +612,17 @@ hr {
 }
 
 .card a button {
-    width: 100%;
-    display: block;
-    text-align: center;
     background-color: var(--primary-colour);
     color: white;
+    border: none;
     padding: 12px;
-    margin: 16px;
+    margin: 0 16px 16px 16px; /* Adjusted to ensure proper margins */
+    border-radius: 4px;
     cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: calc(100% - 32px); /* Adjusted to fit within the card */
+    display: block;
+    text-align: center;
 }
 
 .card a button:hover {
