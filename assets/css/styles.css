@@ -394,6 +394,10 @@ hr {
     margin-bottom: 20px;
 }
 
+.contact-container p:nth-child(1) {
+    padding-bottom: 2rem;
+}
+
 .contact-container div {
     margin-bottom: 15px;
 }
