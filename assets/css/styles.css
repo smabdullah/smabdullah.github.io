@@ -428,6 +428,9 @@ hr {
     justify-content: space-around;
     gap: 1em;
     color: black;
+    margin: 0 auto;
+    padding: 20px;
+    width: 100%;
 }
 
 .project {
