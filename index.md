@@ -41,7 +41,7 @@ title: Home
     <img src="./assets/images/university_teaching.jpg" alt="University teaching">
     <h2>Empowering Minds Through Education</h2>
     <p>With over eight years of tertiary teaching experience in Australia and Bangladesh, I am dedicated to fostering academic excellence and inspiring the next generation of learners.</p>
-    <a href="/about">
+    <a href="/about/#graduate-teaching-associate-monash-university">
       <button>Find more...</button>
     </a>
   </div>
@@ -49,7 +49,7 @@ title: Home
     <img src="./assets/images/technology teaching.jpg" alt="STEAM teaching">
     <h2>Innovating Education Through STEAM</h2>
     <p>With over three years of experience teaching STEAM at Casey Tech School, I am passionate about integrating science, technology, engineering, arts, and mathematics to inspire and educate the innovators of tomorrow.</p>
-    <a href="/about">
+    <a href="/about/#steam-teacher-casey-tech-school">
       <button>Find more...</button>
     </a>
   </div>
