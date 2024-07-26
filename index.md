@@ -35,3 +35,38 @@ title: Home
       <p>Research Publications</p>
     </div>
 </div>
+
+<div class="card-container">
+  <div class="card">
+    <img src="./assets/images/university_teaching.jpg" alt="University teaching">
+    <h2>8+ years</h2>
+    <p>Tertiary teaching experience</p>
+    <a href="/about.md">
+      <button>Find more...</button>
+    </a>
+  </div>
+  <div class="card">
+    <img src="./assets/images/technology teaching.jpg" alt="STEAM teaching">
+    <h2>3+ years</h2>
+    <p>STEAM teaching experience</p>
+    <a href="/about.md">
+      <button>Find more...</button>
+    </a>
+  </div>
+  <div class="card">
+    <img src="./assets/images/project.jpg" alt="Project">
+    <h2>8</h2>
+    <p>Technology projects</p>
+    <a href="/projects.md">
+      <button>Find more...</button>
+    </a>
+  </div>
+  <div class="card">
+    <img src="./assets/images/research.jpg" alt="Research publication">
+    <h2>7</h2>
+    <p>International research publications</p>
+    <a href="/publications.md">
+      <button>Find more...</button>
+    </a>
+  </div>
+</div>

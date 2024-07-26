@@ -450,7 +450,7 @@ hr {
 }
 
 .project a:hover {
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 .project p {
@@ -478,6 +478,11 @@ hr {
     text-decoration: none;
     border-radius: 10px;
     margin-top: 10px;
+}
+
+.project .btn:hover {
+    background-color: #2ecc71;
+    color: black;
 }
 
 .project .demo-btn {
@@ -566,6 +571,59 @@ hr {
     padding: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
+
+.card-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1em;
+    padding: 1em;
+}
+
+.card {
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.card img {
+    width: 100%;
+    height: auto;
+}
+
+.card h2 {
+    margin: 16px;
+    color: var(--primary-colour);
+    font-size: var(--hero-h2-font-size);
+}
+
+.card p {
+    margin: 16px;
+    flex: 1;
+}
+
+.card a {
+    text-decoration: none;
+}
+
+.card a button {
+    width: 100%;
+    display: block;
+    text-align: center;
+    background-color: var(--primary-colour);
+    color: white;
+    padding: 12px;
+    margin: 16px;
+    cursor: pointer;
+}
+
+.card a button:hover {
+    background-color: #2ecc71;
+    color: black;
+}
   
 
 /* Media Queries for Responsive Design */
@@ -629,6 +687,10 @@ hr {
     .about-container {
         margin: 0 10px;
     }
+
+    .card-container {
+        grid-template-columns: repeat(2, 1fr);
+    }
 }
 
 @media (max-width: 480px) {
@@ -646,6 +708,10 @@ hr {
     }
 
     .header-content {
+        grid-template-columns: 1fr;
+    }
+
+    .card-container {
         grid-template-columns: 1fr;
     }
 }
