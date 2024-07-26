@@ -86,7 +86,6 @@ header {
     padding-top: 30px;
     min-height: 70px;
     text-align: center;
-    border-bottom: var(--primary-colour) 3px solid;
 }
 
 header h1 {

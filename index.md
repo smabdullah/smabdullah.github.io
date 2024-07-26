@@ -39,32 +39,32 @@ title: Home
 <div class="card-container">
   <div class="card">
     <img src="./assets/images/university_teaching.jpg" alt="University teaching">
-    <h2>More than eight years</h2>
-    <p>Tertiary teaching experience</p>
+    <h2>Empowering Minds Through Education</h2>
+    <p>With over eight years of tertiary teaching experience in Australia and Bangladesh, I am dedicated to fostering academic excellence and inspiring the next generation of learners.</p>
     <a href="/about">
       <button>Find more...</button>
     </a>
   </div>
   <div class="card">
     <img src="./assets/images/technology teaching.jpg" alt="STEAM teaching">
-    <h2>More than three years</h2>
-    <p>STEAM teaching experience</p>
+    <h2>Innovating Education Through STEAM</h2>
+    <p>With over three years of experience teaching STEAM at Casey Tech School, I am passionate about integrating science, technology, engineering, arts, and mathematics to inspire and educate the innovators of tomorrow.</p>
     <a href="/about">
       <button>Find more...</button>
     </a>
   </div>
   <div class="card">
     <img src="./assets/images/project.jpg" alt="Project">
-    <h2>Eight</h2>
-    <p>Technology projects</p>
+    <h2>Transforming Ideas into Reality</h2>
+    <p>Visit my project page to see a diverse portfolio of technology projects that showcase my dedication to transforming ideas into impactful and tangible outcomes.</p>
     <a href="/projects">
       <button>Find more...</button>
     </a>
   </div>
   <div class="card">
     <img src="./assets/images/research.jpg" alt="Research publication">
-    <h2>Seven</h2>
-    <p>International research publications</p>
+    <h2>Advancing Knowledge Through Research</h2>
+    <p>Explore my publications to discover a wealth of research and insights, reflecting a commitment to advancing knowledge and contributing to the academic community.</p>
     <a href="/publications">
       <button>Find more...</button>
     </a>
