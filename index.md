@@ -16,7 +16,7 @@ title: Home
     <p class="hero-paragraph">I excel at designing and delivering innovative STEAM programs and have extensive experience in image processing, computer vision, and embedded systems.</p>
     <a href="/Resume_latest.pdf" target="_blank" rel="noopener noreferrer" class="btn">View Resume</a>
 </header>
-
+<!--
 <div class="stats">
     <div class="stat">
       <h2>8yr.</h2>
@@ -35,7 +35,7 @@ title: Home
       <p>Research Publications</p>
     </div>
 </div>
-
+-->
 <div class="card-container">
   <div class="card">
     <img src="./assets/images/university_teaching.jpg" alt="University teaching">
