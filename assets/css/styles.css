@@ -562,53 +562,7 @@ footer {
 
 .project strong {
     color: var(--primary-colour);
-}
-
-/*
-.publications-container {
-    width: 100%;
-    margin: 0 auto;
-    padding: 20px;
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    color: #333;
-}
-
-.publications-container h2 {
-    color: var(--primary-colour);
-    text-align: center;
-    margin-bottom: 20px;
-}
-
-.publication {
-    margin-bottom: 20px;
-    padding: 10px;
-    border: 1px solid var(--primary-colour);
-    border-radius: 5px;
-    background-color: var(--card-background-colour);
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-
-.publication h3 {
-    color: var(--primary-colour);
-    margin-bottom: 5px;
-}
-
-.publication p {
-    margin: 0;
-    color: #555;
-}
-
-.publication p.article {
-    padding-top: 20px;
-    padding-bottom: 20px;
-}
-
-.publication strong {
-    color: var(--primary-colour);
-}
-*/
-  
+} 
 
 /* Media Queries for Responsive Design */
 
