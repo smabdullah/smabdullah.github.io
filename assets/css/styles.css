@@ -177,20 +177,20 @@ header .btn::after {
     z-index: -1;
     border-radius: 10px;
 }
-
+/*
 .stats {
     padding: 20px 0;
     background: #fff;
     color: #333;
     text-align: center;
-}
+} 
 
 .stat {
     display: inline-block;
     width: 23%;
     margin-right: 1%;
-    margin-bottom: 20px; /* Added to space out rows on small screens */
-}
+    margin-bottom: 20px; 
+    } 
 
 .stat h2 {
     font-size: var(--hero-h2-font-size);
@@ -202,6 +202,7 @@ header .btn::after {
     text-align: center;
     color: black;
 }
+*/
 
 footer {
     padding: 20px 0;
@@ -426,78 +427,6 @@ hr {
     align-self: center;
 }
 
-.projects {
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: column;
-    justify-content: space-around;
-    gap: 1em;
-    color: black;
-    margin: 0 auto;
-    padding: 20px;
-    width: 100%;
-}
-
-.project {
-    background-color: var(--card-background-colour);
-    border: 1px solid var(--primary-colour);
-    border-radius: 5px;
-    margin-bottom: 20px;
-    padding: 10px;
-    flex: 1;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-
-.project h2 {
-    color: #036635;
-}
-
-.project a {
-    color: #036635;
-    text-decoration: none;
-}
-
-.project a:hover {
-    text-decoration: none;
-}
-
-.project p {
-    margin: 10px 0;
-}
-
-.project h3 {
-    margin-top: 15px;
-}
-
-.project ul {
-    list-style-type: circle;
-    margin-left: 20px;
-}
-
-.project li::marker {
-    color: var(--primary-colour);
-}
-
-.project .btn{
-    display: inline-block;
-    color: #fff;
-    background:  var(--primary-colour);
-    padding: 10px 20px;
-    text-decoration: none;
-    border-radius: 10px;
-    margin-top: 10px;
-}
-
-.project .btn:hover {
-    background-color: #2ecc71;
-    color: black;
-}
-
-.project .demo-btn {
-    text-align: center;
-    text-decoration: none;
-}
-
 #country-info-project {
     display: flex;
     flex-direction: column;
@@ -637,6 +566,95 @@ hr {
     background-color: #2ecc71;
     color: black;
 }
+
+.projects {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1em;
+    padding: 1em;
+    /*
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-around;
+    gap: 1em;
+    color: black;
+    margin: 0 auto;
+    padding: 20px;
+    width: 100%;
+    */
+}
+
+.project {
+    background-color: var(--card-background-colour);
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    /*
+    background-color: var(--card-background-colour);
+    border: 1px solid var(--primary-colour);
+    border-radius: 5px;
+    margin-bottom: 20px;
+    padding: 10px;
+    flex: 1;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    */
+}
+
+.project h2 {
+    color: #036635;
+    font-size: var(--hero-h2-font-size);
+}
+
+.project a {
+    color: #036635;
+    text-decoration: none;
+}
+
+.project a:hover {
+    text-decoration: none;
+}
+
+.project p {
+    margin: 10px 0;
+    flex: 1;
+}
+
+.project h3 {
+    margin-top: 15px;
+}
+
+.project ul {
+    list-style-type: circle;
+    margin-left: 20px;
+}
+
+.project li::marker {
+    color: var(--primary-colour);
+}
+
+.project .btn{
+    display: inline-block;
+    color: #fff;
+    background:  var(--primary-colour);
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.project .btn:hover {
+    background-color: #2ecc71;
+    color: black;
+}
+
+.project .demo-btn {
+    text-align: center;
+    text-decoration: none;
+}
   
 
 /* Media Queries for Responsive Design */
@@ -668,6 +686,7 @@ hr {
         /*grid-template-columns: 1fr;*/
     }
     
+    /*
     .stats {
         padding: 20px 10px;
     }
@@ -680,13 +699,19 @@ hr {
     .stat:last-child {
         margin-right: 0;
     }
+    */
 
     .contact-icon {
         width: 50%;
     }
     
+    /*
     .project {
         flex: 45%;
+    } */
+
+    .projects {
+        grid-template-columns: repeat(2, 1fr);
     }
 
     #country-info-project {
@@ -707,17 +732,24 @@ hr {
 }
 
 @media (max-width: 480px) {
+    /*
     .stat {
         width: 100%;
         margin-right: 0;
     }
+        */
 
     .contact-icon {
         width: 100%;
     }
 
+    /*
     .project {
         flex: 100%
+    }
+        */
+    .projects{
+        grid-template-columns: 1fr;
     }
 
     .header-content {
