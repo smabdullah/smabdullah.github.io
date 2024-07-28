@@ -593,6 +593,7 @@ hr {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    padding: 1em;
     /*
     background-color: var(--card-background-colour);
     border: 1px solid var(--primary-colour);
