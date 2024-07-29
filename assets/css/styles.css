@@ -213,6 +213,7 @@ footer {
 
 .about-hero-container {
     background-color: var(--hero-background-colour);
+    width: 100%;
 }
 
 .projects-hero-container {
