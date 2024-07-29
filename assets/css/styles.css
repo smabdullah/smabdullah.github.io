@@ -209,6 +209,9 @@ footer {
     text-align: left;
     max-width: 700px;
     margin: auto;
+}
+
+.about-hero-container {
     background-color: var(--hero-background-colour);
 }
 
