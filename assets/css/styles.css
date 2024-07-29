@@ -4,6 +4,7 @@
     --hero-h2-font-size: 1.5em;
     --hero-p-font-size: 1.0em;
     --card-background-colour: #f3f6fc;
+    --hero-background-colour: #dfebf6;
 }
 
 * {
@@ -39,6 +40,7 @@ hr {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 1em;
+    background-color: var(--hero-background-colour);
 }
 
 .column {

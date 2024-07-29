@@ -16,26 +16,6 @@ title: Home
     <p class="hero-paragraph">I excel at designing and delivering innovative STEAM programs and have extensive experience in image processing, computer vision, and embedded systems.</p>
     <a href="/Resume_latest.pdf" target="_blank" rel="noopener noreferrer" class="btn">View Resume</a>
 </header>
-<!--
-<div class="stats">
-    <div class="stat">
-      <h2>8yr.</h2>
-      <p>Tertiary Teaching</p>
-    </div>
-    <div class="stat">
-      <h2>3yr.</h2>
-      <p>STEAM Teaching</p>
-    </div>
-    <div class="stat">
-      <h2>8</h2>
-      <p>Technology Projects</p>
-    </div>
-    <div class="stat">
-      <h2>7</h2>
-      <p>Research Publications</p>
-    </div>
-</div>
--->
 <div class="card-container">
   <div class="card">
     <img src="./assets/images/university_teaching.jpg" alt="University teaching">
