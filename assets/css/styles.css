@@ -204,7 +204,7 @@ footer {
     color: #333;
 }
 
-.about-container .about-hero {
+.about-hero-container .about-hero {
     padding: 10px;
     text-align: left;
     max-width: 700px;
@@ -262,7 +262,7 @@ footer {
     color: var(--primary-colour);
 }
 
-.about-container strong {
+.about-container .about-hero-container strong {
     color: var(--primary-colour);
 }
 
@@ -270,7 +270,7 @@ footer {
     font-style: italic;
 }
 
-.about-container .about-hero strong:nth-child(1){
+.about-hero-container .about-hero strong:nth-child(1){
     font-size: var(--hero-h2-font-size);
     background-color: rgba(21, 71, 52, 0.8);
     color:#f9f9f9;
@@ -297,7 +297,7 @@ footer {
     box-sizing: border-box;
 }
 
-.about-container .about-hero strong:nth-child(2){
+.about-hero-container .about-hero strong:nth-child(2){
     font-size: var(--hero-h2-font-size);
 }
 
