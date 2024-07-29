@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<header>
+<header class="homepage-hero-section">
     <div class="header-content">
       <div class="column">
         <h1>Hello, I'm S M Abdullah, PhD</h1>

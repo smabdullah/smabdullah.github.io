@@ -40,6 +40,9 @@ hr {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 1em;
+}
+
+.homepage-hero-section {
     background-color: var(--hero-background-colour);
 }
 
