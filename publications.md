@@ -8,7 +8,6 @@ permalink: /publications/
         My research focuses on advanced image segmentation algorithms, including <strong>parameter-free hierarchical</strong> methods and <strong>LiDAR data processing</strong> for building extraction. I emphasise non-iterative, flexible approaches that improve image segmentation quality and efficiency. Key contributions include developing <strong>hierarchical mutual nearest neighbour and tree-based segmentation techniques</strong>, and innovative methods for automatic building roof extraction from LiDAR data. Additionally, my work extends to analysing human interactions in meetings using directed acyclic graphs and developing new measures for correlation mining in graph databases.
     </p>
 </div>
-<hr>
 <div class="projects">
     <div class="project">
         <h2>Parameter-free hierarchical image segmentation</h2>
