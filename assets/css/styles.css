@@ -103,6 +103,30 @@ header h1 {
     font-size: var(--hero-h1-font-size);
     margin-bottom: 10px;
     color:  var(--primary-colour);
+
+    background-image: linear-gradient(
+        225deg,
+        hsl(157deg 54% 18%) 0%,
+        hsl(169deg 54% 22%) 1%,
+        hsl(181deg 53% 25%) 4%,
+        hsl(192deg 52% 29%) 9%,
+        hsl(204deg 51% 33%) 17%,
+        hsl(216deg 51% 37%) 26%,
+        hsl(227deg 50% 41%) 38%,
+        hsl(239deg 49% 45%) 51%,
+        hsl(251deg 48% 49%) 65%,
+        hsl(262deg 53% 53%) 77%,
+        hsl(274deg 61% 57%) 87%,
+        hsl(286deg 71% 61%) 94%,
+        hsl(297deg 83% 65%) 98%,
+        hsl(309deg 99% 69%) 100%
+    );
+    background-size: 100%;
+    background-repeat: repeat;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    -moz-background-clip: text;
+    -moz-text-fill-color: transparent;
 }
 
 header h2 {
