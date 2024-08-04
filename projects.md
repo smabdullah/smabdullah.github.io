@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 <div class="projects-hero-container">
     <p class="projects-hero">
-        As a passionate and skilled developer, I specialise in data science and technology, bringing a comprehensive set of skills to every project. My expertise lies in <strong>Python programming, machine learning, data visualisation, and robust web development</strong>. I am dedicated to <strong>continuous learning</strong> and using my creativity and technical expertise to solve real-world problems. Explore my work to see how I deliver innovative solutions and exceptional results.
+        As a passionate and skilled developer, I specialise in data science and technology, bringing a comprehensive set of skills to every project. My expertise lies in <strong class="gradient-text">Python programming, machine learning, data visualisation, and robust web development</strong>. I am dedicated to <strong>continuous learning</strong> and using my creativity and technical expertise to solve real-world problems. Explore my work to see how I deliver innovative solutions and exceptional results.
     </p>
 </div>
 <div class="projects">

@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 <div class="about-hero-container">
-    <p class="about-hero">I am an <strong>innovative and passionate STEAM educator and AI specialist</strong> with extensive experience in <strong>image processing, computer vision, and embedded systems</strong>. I design and deliver engaging STEAM programs that foster critical thinking, problem-solving, and hands-on learning experiences. My commitment is to leverage cutting-edge technologies and interdisciplinary approaches to inspire the next generation of STEAM innovators.</p>
+    <p class="about-hero">I am an <strong class="gradient-text">innovative and passionate STEAM educator and AI specialist</strong> with extensive experience in <strong>image processing, computer vision, and embedded systems</strong>. I design and deliver engaging STEAM programs that foster critical thinking, problem-solving, and hands-on learning experiences. My commitment is to leverage cutting-edge technologies and interdisciplinary approaches to inspire the next generation of STEAM innovators.</p>
 </div>
 <div class="about-container">
     <h2>Professional Experience</h2>

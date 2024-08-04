@@ -6,7 +6,7 @@ title: Home
 <header class="homepage-hero-section">
     <div class="header-content">
       <div class="column">
-        <h1>Hello, I'm S M Abdullah, PhD</h1>
+        <h1 class="gradient-text">Hello, I'm S M Abdullah, PhD</h1>
         <p class="hero-scale">STEAM Educator | AI Specialist</p>
       </div>
       <div class="column">

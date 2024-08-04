@@ -25,6 +25,32 @@ hr {
     margin: 20px 0;
 }
 
+.gradient-text {
+    background-image: linear-gradient(
+        225deg,
+        hsl(157deg 54% 18%) 0%,
+        hsl(169deg 54% 22%) 1%,
+        hsl(181deg 53% 25%) 4%,
+        hsl(192deg 52% 29%) 9%,
+        hsl(204deg 51% 33%) 17%,
+        hsl(216deg 51% 37%) 26%,
+        hsl(227deg 50% 41%) 38%,
+        hsl(239deg 49% 45%) 51%,
+        hsl(251deg 48% 49%) 65%,
+        hsl(262deg 53% 53%) 77%,
+        hsl(274deg 61% 57%) 87%,
+        hsl(286deg 71% 61%) 94%,
+        hsl(297deg 83% 65%) 98%,
+        hsl(309deg 99% 69%) 100%
+    );
+    background-size: 100%;
+    background-repeat: repeat;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    -moz-background-clip: text;
+    -moz-text-fill-color: transparent;
+}
+
 @font-face {
     font-family: 'myFont';
     src: url('../fonts/LedDisplay7-PKD9Z.ttf') format('truetype');
@@ -103,30 +129,6 @@ header h1 {
     font-size: var(--hero-h1-font-size);
     margin-bottom: 10px;
     color:  var(--primary-colour);
-
-    background-image: linear-gradient(
-        225deg,
-        hsl(157deg 54% 18%) 0%,
-        hsl(169deg 54% 22%) 1%,
-        hsl(181deg 53% 25%) 4%,
-        hsl(192deg 52% 29%) 9%,
-        hsl(204deg 51% 33%) 17%,
-        hsl(216deg 51% 37%) 26%,
-        hsl(227deg 50% 41%) 38%,
-        hsl(239deg 49% 45%) 51%,
-        hsl(251deg 48% 49%) 65%,
-        hsl(262deg 53% 53%) 77%,
-        hsl(274deg 61% 57%) 87%,
-        hsl(286deg 71% 61%) 94%,
-        hsl(297deg 83% 65%) 98%,
-        hsl(309deg 99% 69%) 100%
-    );
-    background-size: 100%;
-    background-repeat: repeat;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent; 
-    -moz-background-clip: text;
-    -moz-text-fill-color: transparent;
 }
 
 header h2 {
@@ -209,6 +211,22 @@ footer {
     background:  var(--primary-colour);
     color: #fff;
     font-size: small;
+}
+
+footer a {
+    color: inherit;
+}
+
+footer a:visited {
+    color: inherit;
+}
+
+footer a:hover {
+    color: inherit;
+}
+
+footer a:active {
+    color: inherit;
 }
 
 .portrait {
@@ -307,29 +325,29 @@ footer {
 
 .about-hero-container .about-hero strong:nth-child(1){
     font-size: var(--hero-h2-font-size);
-    background-color: rgba(21, 71, 52, 0.8);
+    /*background-color: rgba(21, 71, 52, 0.8);
+    box-sizing: border-box;*/
     color:#f9f9f9;
     padding-left: 10px;
     padding-right: 10px;
-    box-sizing: border-box;
 }
 
 .projects-hero-container .projects-hero strong:nth-child(1){
     font-size: var(--hero-h2-font-size);
-    background-color: rgba(21, 71, 52, 0.8);
+    /*background-color: rgba(21, 71, 52, 0.8);
+    box-sizing: border-box;*/
     color:#f9f9f9;
     padding-left: 10px;
     padding-right: 10px;
-    box-sizing: border-box;
 }
 
 .publications-hero-container .publications-hero strong:nth-child(1){
     font-size: var(--hero-h2-font-size);
-    background-color: rgba(21, 71, 52, 0.8);
+    /*background-color: rgba(21, 71, 52, 0.8);
+    box-sizing: border-box;*/
     color:#f9f9f9;
     padding-left: 10px;
     padding-right: 10px;
-    box-sizing: border-box;
 }
 
 .about-hero-container .about-hero strong:nth-child(2){
