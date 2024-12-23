@@ -31,7 +31,7 @@ permalink: /contact/
     <hr>
     <div>
         <span>
-            <p>Creator, contributor and maintainer of Casey Tech School's GitHub profile that hosts public coding repositories:
+            <p>Creator, contributor and maintainer of Casey Tech School's GitHub profile that hosts public coding repositories. This space showcases innovative projects and resources designed to empower students and educators in STEAM education. Every repository here is a testament to hands-on learning, cutting-edge technology, and creative problem-solving—meticulously crafted and maintained by the Casey Tech School team. Dive in to explore tools, activities, and guides that inspire the next generation of innovators.
                 <a href="https://github.com/caseytechschool-cts" target="_blank" rel="noopener noreferrer">
                     <i class="fa fa-github" aria-hidden="true"></i>
                 </a></p>
@@ -39,7 +39,7 @@ permalink: /contact/
     </div>
     <div>
         <span>
-            <p>Creator, contributor and maintainer of Casey Tech School's GitBook website that publishes step-by-step tutorials on cutting-edge technologies:
+            <p>Creator, contributor and maintainer of Casey Tech School's GitBook website that publishes step-by-step tutorials on cutting-edge technologies. This platform serves as a hub for dynamic educational content and resources tailored to ignite curiosity and foster innovation in STEAM education. Every page reflects a dedication to hands-on learning and practical knowledge, designed and curated with care. Explore comprehensive guides, engaging projects, and insightful tutorials to empower students and educators alike on their learning journey.
                 <a href="https://caseytechschool.gitbook.io/welcome" target="_blank" rel="noopener noreferrer">
                     <i class="fa fa-book" aria-hidden="true"></i>
                 </a></p>
