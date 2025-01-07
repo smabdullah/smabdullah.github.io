@@ -6,8 +6,8 @@ title: Home
 <header class="homepage-hero-section">
     <div class="header-content">
       <div class="column">
-        <h1 class="gradient-text">Hello, I'm S M Abdullah, PhD</h1>
-        <p class="hero-scale">STEAM Educator | AI Specialist</p>
+        <h1 class="gradient-text">G'DAY, I am Abdullah</h1>
+        <p class="hero-scale">Lifelong learner</p>
       </div>
       <div class="column">
         <img src="/assets/images/Profile.png" alt="S M Abdullah, PhD" class="portrait">
