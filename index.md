@@ -13,7 +13,7 @@ title: Home
         <img src="/assets/images/Profile.png" alt="S M Abdullah, PhD" class="portrait">
       </div>
     </div>
-    <p class="hero-paragraph">I excel at designing and delivering innovative STEAM programs and have extensive experience in image processing, computer vision, and embedded systems.</p>
+    <p class="hero-paragraph">I help people navigate the chaotic world through the responsible use of technology.</p>
     <a href="/Resume_latest.pdf" target="_blank" rel="noopener noreferrer" class="btn">View Resume</a>
 </header>
 <div class="card-container">
