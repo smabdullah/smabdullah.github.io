@@ -1,6 +1,7 @@
 :root {
     --primary-colour: rgb(21, 71, 52);
     --hero-h1-font-size: 3.0em;
+    --hero-font-size: 2.0em;
     --hero-h2-font-size: 1.5em;
     --hero-p-font-size: 1.0em;
     --card-background-colour: #f3f6fc;
@@ -146,7 +147,7 @@ header h2 {
 
 .hero-scale {
     font-family: 'myFont';
-    font-size: var(--hero-h2-font-size);
+    font-size: var(--hero-font-size);
     margin-bottom: 20px;
     text-align: center;
     padding: 10px;
