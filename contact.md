@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 
 <div class="contact-container">
-    <p>You can reach me through the following platforms:</p>
+    <p>You can reach me through the following socialplatforms:</p>
     <div class="contact-info">
         <div class="contact-icon">
             <a href="http://au.linkedin.com/in/smabdullah" target="_blank" rel="noopener noreferrer">
