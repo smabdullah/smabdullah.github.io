@@ -14,9 +14,7 @@ title: Home
       </div>
     </div>
     <p class="hero-paragraph">I help people navigate the chaotic world through the responsible use of technology.</p>
-    <button class='btn-uiverse'>
-      <a href="https://drive.google.com/file/d/1-T8TIFIhyMxAp9ozINjtII8YH5WIo0cv/view?usp=sharing" target="_blank" rel="noopener noreferrer" style="text-decoration: none">View Resume</a>
-    </button>
+    <a href="https://drive.google.com/file/d/1-T8TIFIhyMxAp9ozINjtII8YH5WIo0cv/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="btn-uiverse">View Resume</a>
 </header>
 <div class="card-container">
   <div class="card">
