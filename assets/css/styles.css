@@ -71,6 +71,7 @@ hr {
 
 .homepage-hero-section {
     background-color: var(--hero-background-colour);
+    padding-bottom: 2rem;
 }
 
 .column {
