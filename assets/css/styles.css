@@ -632,8 +632,8 @@ footer a:active {
 
 /* From Uiverse.io by mrhyddenn */ 
 .btn-uiverse {
-    background: #dfebf6;
-    color: #000;
+    background: var(--hero-background-colour);
+    color: #000 !important;
     font-size: 17px;
     text-transform: uppercase;
     font-weight: 600;
