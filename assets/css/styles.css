@@ -1,5 +1,5 @@
 :root {
-    --primary-colour: rgb(21, 71, 52);
+    --primary-colour: #154734;
     --hero-h1-font-size: 3.0em;
     --hero-font-size: 2.0em;
     --hero-h2-font-size: 1.5em;
@@ -72,6 +72,11 @@ hr {
 .homepage-hero-section {
     background-color: var(--hero-background-colour);
     padding-bottom: 2rem;
+    /* Background pattern from Hero Patterns uiverse*/
+    background-image: radial-gradient(#154734 10%, transparent 10%),
+                      radial-gradient(#154734 10%, transparent 10%);
+  background-size: 50px 50px;
+  background-position: 0 0, 50px 50px;
 }
 
 .column {
