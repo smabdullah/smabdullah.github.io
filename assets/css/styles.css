@@ -73,10 +73,10 @@ hr {
     background-color: var(--hero-background-colour);
     padding-bottom: 2rem;
     /* Background pattern from Hero Patterns uiverse*/
-    background-image: radial-gradient(#154734 10%, transparent 10%),
-                      radial-gradient(#154734 10%, transparent 10%);
-  background-size: 50px 50px;
-  background-position: 0 0, 50px 50px;
+    --color: #E1E1E1;
+    background-image: linear-gradient(0deg, transparent 24%, var(--color) 25%, var(--color) 26%, transparent 27%,transparent 74%, var(--color) 75%, var(--color) 76%, transparent 77%,transparent),
+      linear-gradient(90deg, transparent 24%, var(--color) 25%, var(--color) 26%, transparent 27%,transparent 74%, var(--color) 75%, var(--color) 76%, transparent 77%,transparent);
+  background-size: 55px 55px;
 }
 
 .column {
