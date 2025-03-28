@@ -15,7 +15,7 @@ title: Home
     </div>
     <p class="hero-paragraph">I help people navigate the chaotic world through the responsible use of technology.</p>
     <a href="https://drive.google.com/file/d/1-T8TIFIhyMxAp9ozINjtII8YH5WIo0cv/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="btn-uiverse">View Resume</a>
-    <button class="git-button">Get in touch</button>
+    <button class="git-button" onclick="sendEmail()">Get in touch</button>
 </header>
 <div class="card-container">
   <div class="card">

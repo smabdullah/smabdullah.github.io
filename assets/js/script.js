@@ -70,3 +70,7 @@ function areYouBored() {
       document.getElementById('activityResult').innerText = 'Sorry, something went wrong. Please try again.';
     });
 }
+
+function sendEmail(){
+  window.location.href = "mailto:sma.csedu@gmail.com?subject=Say Hello&body=Hi there!";
+}
